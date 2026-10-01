@@ -1,0 +1,48 @@
+# MRI apps
+
+Stand-alone applications with a graphical user interface for the reconstruction and analysis of
+preclinical MRI data, in particular data acquired with MR Solutions systems.
+Gustav Strijkers, Amsterdam UMC, Biomedical Engineering and Physics.
+
+Each app installs with everything it needs: no MATLAB and no Python are required.
+These are beta versions.
+
+## Downloads
+
+| App | What it does | macOS (Apple silicon) | Manual |
+|---|---|---|---|
+| **Retrospective** | Reconstruction of self-gated cardiac and respiratory CINE MRI, with automatic LV segmentation | [0.1.0 (247 MB)](https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.1.0/Retrospective-0.1.0-macOS-arm64.dmg) | [PDF](manuals/retrospective-manual.pdf) |
+| **P2ROUD** | Reconstruction of (undersampled) Cartesian, radial, UTE, ZTE and EPI data | [0.1.0 (128 MB)](https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.1.0/P2ROUD-0.1.0-macOS-arm64.dmg) | [PDF](manuals/p2roud-manual.pdf) |
+| **T1mapp** | T₁ mapping: inversion recovery (Look-Locker), saturation recovery and variable flip angle | [0.1.0 (150 MB)](https://github.com/Moby1971/MRI-apps/releases/download/t1mapp-v0.1.0/T1mapp-0.1.0-macOS-arm64.dmg) | [PDF](manuals/t1mapp-manual.pdf) |
+| **T2mapp** | T₂ and T₂* mapping of MR Solutions and Bruker data | [0.1.0 (149 MB)](https://github.com/Moby1971/MRI-apps/releases/download/t2mapp-v0.1.0/T2mapp-0.1.0-macOS-arm64.dmg) | coming |
+| **ADCmapp** | ADC mapping of diffusion-weighted data | [0.1.0 (98 MB)](https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.1.0/ADCmapp-0.1.0-macOS-arm64.dmg) | coming |
+
+Windows installers will follow. Earlier versions are on the [Releases](https://github.com/Moby1971/MRI-apps/releases) page.
+
+## Installing on macOS
+
+Requirements: a Mac with Apple silicon (M1 or later) and macOS 26 or later.
+
+1. Open the downloaded `.dmg` and drag the app onto the Applications folder.
+2. Open it from Applications. The apps are not signed with an Apple Developer ID, so the first
+   time macOS refuses a downloaded app ("Apple could not verify ..."). Click **Done**, open
+   **System Settings > Privacy & Security**, scroll down to the line saying the app was blocked,
+   click **Open Anyway** and confirm. From then on it opens as any other app.
+
+   Or, instead, once in Terminal (with the app's name):
+
+   ```
+   xattr -dr com.apple.quarantine /Applications/T1mapp.app
+   ```
+
+"Read me first.txt" inside each disk image has the details for that app, such as the optional
+BART toolbox.
+
+## Contact
+
+Gustav Strijkers, Amsterdam UMC, g.j.strijkers@amsterdamumc.nl
+
+The software is provided as is, for research use. It has been tested with mouse data acquired
+with an MR Solutions preclinical 7.0T system, but this does not warrant that it meets your
+requirements or works without error. If you use the apps in a publication, please cite them as
+the manuals describe.
