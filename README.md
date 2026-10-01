@@ -14,7 +14,7 @@ These are beta versions.
 | **Retrospective** | Reconstruction of self-gated cardiac and respiratory CINE MRI, with automatic LV segmentation | [0.1.0 (247 MB)](https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.1.0/Retrospective-0.1.0-macOS-arm64.dmg) | – | [PDF](manuals/retrospective-manual.pdf) |
 | **P2ROUD** | Reconstruction of (undersampled) Cartesian, radial, UTE, ZTE and EPI data | [0.1.0 (128 MB)](https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.1.0/P2ROUD-0.1.0-macOS-arm64.dmg) | – | [PDF](manuals/p2roud-manual.pdf) |
 | **T1mapp** | T₁ mapping: inversion recovery (Look-Locker), saturation recovery and variable flip angle | [0.1.0 (150 MB)](https://github.com/Moby1971/MRI-apps/releases/download/t1mapp-v0.1.0/T1mapp-0.1.0-macOS-arm64.dmg) | – | [PDF](manuals/t1mapp-manual.pdf) |
-| **T2mapp** | T₂ and T₂* mapping of MR Solutions and Bruker data | [0.1.0 (149 MB)](https://github.com/Moby1971/MRI-apps/releases/download/t2mapp-v0.1.0/T2mapp-0.1.0-macOS-arm64.dmg) | – | coming |
+| **T2mapp** | T₂ and T₂* mapping | [0.1.0 (149 MB)](https://github.com/Moby1971/MRI-apps/releases/download/t2mapp-v0.1.0/T2mapp-0.1.0-macOS-arm64.dmg) | – | coming |
 | **ADCmapp** | ADC mapping of diffusion-weighted data | [0.1.0 (98 MB)](https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.1.0/ADCmapp-0.1.0-macOS-arm64.dmg) | – | coming |
 | **DSCmapp** | Hemodynamic and vascular maps of the brain from dynamic susceptibility contrast (DSC) MRI | – | [2.0.0 (20 MB)](https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-v2.0.0/DSCmapp-2.0.0-Windows-setup.exe) | [PDF](manuals/dscmapp-manual.pdf) |
 
