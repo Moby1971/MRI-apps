@@ -16,7 +16,7 @@ These are beta versions.
 | **T1mapp** | T₁ mapping: inversion recovery (Look-Locker), saturation recovery and variable flip angle | [0.2.0 (151 MB)](https://github.com/Moby1971/MRI-apps/releases/download/t1mapp-v0.2.0/T1mapp-0.2.0-macOS-arm64.dmg) | – | [PDF](manuals/t1mapp-manual.pdf) |
 | **T2mapp** | T₂ and T₂* mapping | [0.2.0 (151 MB)](https://github.com/Moby1971/MRI-apps/releases/download/t2mapp-v0.2.0/T2mapp-0.2.0-macOS-arm64.dmg) | – | [PDF](manuals/t2mapp-manual.pdf) |
 | **ADCmapp** | ADC mapping of diffusion-weighted data | [0.2.0 (100 MB)](https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.2.0/ADCmapp-0.2.0-macOS-arm64.dmg) | – | [PDF](manuals/adcmapp-manual.pdf) |
-| **DSCmapp** (MATLAB) | Hemodynamic and vascular maps of the brain from dynamic susceptibility contrast (DSC) MRI | – | [2.0.0 (20 MB)](https://github.com/Moby1971/MRI-apps/releases/download/dscmapping-v2.0.0/DSCmapp-2.0.0-Windows-setup.exe) | [PDF](manuals/dscmapp-manual.pdf) |
+| **DSCmapp** (MATLAB) | Hemodynamic and vascular maps of the brain from dynamic susceptibility contrast (DSC) MRI | – | [2.0.0 (20 MB)](https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-matlab-v2.0.0/DSCmapp-2.0.0-Windows-setup.exe) | [PDF](manuals/dscmapp-manual.pdf) |
 
 DSCmapp is still the MATLAB app (installed with the free MATLAB Runtime), with the MATLAB app's version number; a Python DSCmapp will follow. Windows installers of the other apps will follow. Earlier versions are on the [Releases](https://github.com/Moby1971/MRI-apps/releases) page.
 
