@@ -1,5 +1,7 @@
 # MRI apps
 
+<p align="center"><img src="https://moby1971.github.io/MRI-apps/images/banner.png" alt="Retrospective, P2ROUD, T1mapp, T2mapp, ADCmapp and DSCmapp" width="100%"></p>
+
 Stand-alone applications with a graphical user interface for the reconstruction and analysis of
 preclinical MRI data, in particular data acquired with MR Solutions systems.
 Gustav Strijkers, Amsterdam UMC, Biomedical Engineering and Physics.
