@@ -18,7 +18,7 @@ These are beta versions.
 | **ADCmapp** | ADC mapping of diffusion-weighted data | [0.2.1 (100 MB)](https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.2.1/ADCmapp-0.2.1-macOS-arm64.dmg) | [PDF](https://moby1971.github.io/MRI-apps/manuals/adcmapp-manual.pdf) |
 | **DSCmapp** | Hemodynamic and vascular maps of the brain from dynamic susceptibility contrast (DSC) MRI | [0.1.0 (101 MB)](https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-v0.1.0/DSCmapp-0.1.0-macOS-arm64.dmg) | [PDF](https://moby1971.github.io/MRI-apps/manuals/dscmapp-manual.pdf) |
 
-Windows installers will follow. Earlier versions are on the [Releases](https://github.com/Moby1971/MRI-apps/releases) page.
+Windows installers will follow.
 
 ## Installing on macOS
 
