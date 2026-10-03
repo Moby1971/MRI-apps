@@ -11,7 +11,7 @@ These are beta versions.
 
 | App | What it does | macOS (Apple silicon) | Manual |
 |---|---|---|---|
-| **Retrospective** | Reconstruction of self-gated cardiac and respiratory CINE MRI, with automatic LV segmentation | [0.2.0 (250 MB)](https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.2.0/Retrospective-0.2.0-macOS-arm64.dmg) | [PDF](https://moby1971.github.io/MRI-apps/manuals/retrospective-manual.pdf) |
+| **Retrospective** | Reconstruction of self-gated cardiac and respiratory CINE MRI, with automatic LV segmentation | [0.2.1 (251 MB)](https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.2.1/Retrospective-0.2.1-macOS-arm64.dmg) | [PDF](https://moby1971.github.io/MRI-apps/manuals/retrospective-manual.pdf) |
 | **P2ROUD** | Reconstruction of (undersampled) Cartesian, radial, UTE, ZTE and EPI data | [0.2.1 (130 MB)](https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.2.1/P2ROUD-0.2.1-macOS-arm64.dmg) | [PDF](https://moby1971.github.io/MRI-apps/manuals/p2roud-manual.pdf) |
 | **T1mapp** | T₁ mapping: inversion recovery (Look-Locker), saturation recovery and variable flip angle | [0.2.1 (151 MB)](https://github.com/Moby1971/MRI-apps/releases/download/t1mapp-v0.2.1/T1mapp-0.2.1-macOS-arm64.dmg) | [PDF](https://moby1971.github.io/MRI-apps/manuals/t1mapp-manual.pdf) |
 | **T2mapp** | T₂ and T₂* mapping | [0.2.1 (152 MB)](https://github.com/Moby1971/MRI-apps/releases/download/t2mapp-v0.2.1/T2mapp-0.2.1-macOS-arm64.dmg) | [PDF](https://moby1971.github.io/MRI-apps/manuals/t2mapp-manual.pdf) |
