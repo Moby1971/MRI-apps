@@ -15,7 +15,7 @@ These are beta versions.
 | **P2ROUD** | Reconstruction of (undersampled) Cartesian, radial, UTE, ZTE and EPI data | [0.2.1 (130 MB)](https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.2.1/P2ROUD-0.2.1-macOS-arm64.dmg) | [PDF](https://moby1971.github.io/MRI-apps/manuals/p2roud-manual.pdf) |
 | **T1mapp** | T₁ mapping: inversion recovery (Look-Locker), saturation recovery and variable flip angle | [0.2.1 (151 MB)](https://github.com/Moby1971/MRI-apps/releases/download/t1mapp-v0.2.1/T1mapp-0.2.1-macOS-arm64.dmg) | [PDF](https://moby1971.github.io/MRI-apps/manuals/t1mapp-manual.pdf) |
 | **T2mapp** | T₂ and T₂* mapping | [0.2.1 (152 MB)](https://github.com/Moby1971/MRI-apps/releases/download/t2mapp-v0.2.1/T2mapp-0.2.1-macOS-arm64.dmg) | [PDF](https://moby1971.github.io/MRI-apps/manuals/t2mapp-manual.pdf) |
-| **ADCmapp** | ADC mapping of diffusion-weighted data | [0.2.1 (101 MB)](https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.2.1/ADCmapp-0.2.1-macOS-arm64.dmg) | [PDF](https://moby1971.github.io/MRI-apps/manuals/adcmapp-manual.pdf) |
+| **ADCmapp** | ADC mapping of diffusion-weighted data | [0.2.1 (100 MB)](https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.2.1/ADCmapp-0.2.1-macOS-arm64.dmg) | [PDF](https://moby1971.github.io/MRI-apps/manuals/adcmapp-manual.pdf) |
 | **DSCmapp** | Hemodynamic and vascular maps of the brain from dynamic susceptibility contrast (DSC) MRI | [0.1.0 (101 MB)](https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-v0.1.0/DSCmapp-0.1.0-macOS-arm64.dmg) | [PDF](https://moby1971.github.io/MRI-apps/manuals/dscmapp-manual.pdf) |
 
 Windows installers will follow. Earlier versions are on the [Releases](https://github.com/Moby1971/MRI-apps/releases) page.
