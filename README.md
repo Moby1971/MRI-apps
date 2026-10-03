@@ -4,22 +4,21 @@ Stand-alone applications with a graphical user interface for the reconstruction 
 preclinical MRI data, in particular data acquired with MR Solutions systems.
 Gustav Strijkers, Amsterdam UMC, Biomedical Engineering and Physics.
 
-Each app installs with everything it needs: no MATLAB licence and no Python are required.
+Each app installs with everything it needs: nothing else has to be installed.
 These are beta versions.
 
 ## Downloads
 
-| App | What it does | macOS (Apple silicon) | Windows | Manual |
-|---|---|---|---|---|
-| **Retrospective** | Reconstruction of self-gated cardiac and respiratory CINE MRI, with automatic LV segmentation | [0.2.0 (250 MB)](https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.2.0/Retrospective-0.2.0-macOS-arm64.dmg) | – | [PDF](https://moby1971.github.io/MRI-apps/manuals/retrospective-manual.pdf) |
-| **P2ROUD** | Reconstruction of (undersampled) Cartesian, radial, UTE, ZTE and EPI data | [0.2.1 (130 MB)](https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.2.1/P2ROUD-0.2.1-macOS-arm64.dmg) | – | [PDF](https://moby1971.github.io/MRI-apps/manuals/p2roud-manual.pdf) |
-| **T1mapp** | T₁ mapping: inversion recovery (Look-Locker), saturation recovery and variable flip angle | [0.2.1 (151 MB)](https://github.com/Moby1971/MRI-apps/releases/download/t1mapp-v0.2.1/T1mapp-0.2.1-macOS-arm64.dmg) | – | [PDF](https://moby1971.github.io/MRI-apps/manuals/t1mapp-manual.pdf) |
-| **T2mapp** | T₂ and T₂* mapping | [0.2.1 (152 MB)](https://github.com/Moby1971/MRI-apps/releases/download/t2mapp-v0.2.1/T2mapp-0.2.1-macOS-arm64.dmg) | – | [PDF](https://moby1971.github.io/MRI-apps/manuals/t2mapp-manual.pdf) |
-| **ADCmapp** | ADC mapping of diffusion-weighted data | [0.2.1 (101 MB)](https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.2.1/ADCmapp-0.2.1-macOS-arm64.dmg) | – | [PDF](https://moby1971.github.io/MRI-apps/manuals/adcmapp-manual.pdf) |
-| **DSCmapp** | Hemodynamic and vascular maps of the brain from dynamic susceptibility contrast (DSC) MRI | [0.1.0 (101 MB)](https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-v0.1.0/DSCmapp-0.1.0-macOS-arm64.dmg) | – | [PDF](https://moby1971.github.io/MRI-apps/manuals/dscmapp-manual.pdf) |
-| **DSCmapp** (MATLAB) | The MATLAB version of DSCmapp, for Windows | – | [2.0.0 (20 MB)](https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-matlab-v2.0.0/DSCmapp-2.0.0-Windows-setup.exe) | [PDF](https://moby1971.github.io/MRI-apps/manuals/dscmapp-matlab-manual.pdf) |
+| App | What it does | macOS (Apple silicon) | Manual |
+|---|---|---|---|
+| **Retrospective** | Reconstruction of self-gated cardiac and respiratory CINE MRI, with automatic LV segmentation | [0.2.0 (250 MB)](https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.2.0/Retrospective-0.2.0-macOS-arm64.dmg) | [PDF](https://moby1971.github.io/MRI-apps/manuals/retrospective-manual.pdf) |
+| **P2ROUD** | Reconstruction of (undersampled) Cartesian, radial, UTE, ZTE and EPI data | [0.2.1 (130 MB)](https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.2.1/P2ROUD-0.2.1-macOS-arm64.dmg) | [PDF](https://moby1971.github.io/MRI-apps/manuals/p2roud-manual.pdf) |
+| **T1mapp** | T₁ mapping: inversion recovery (Look-Locker), saturation recovery and variable flip angle | [0.2.1 (151 MB)](https://github.com/Moby1971/MRI-apps/releases/download/t1mapp-v0.2.1/T1mapp-0.2.1-macOS-arm64.dmg) | [PDF](https://moby1971.github.io/MRI-apps/manuals/t1mapp-manual.pdf) |
+| **T2mapp** | T₂ and T₂* mapping | [0.2.1 (152 MB)](https://github.com/Moby1971/MRI-apps/releases/download/t2mapp-v0.2.1/T2mapp-0.2.1-macOS-arm64.dmg) | [PDF](https://moby1971.github.io/MRI-apps/manuals/t2mapp-manual.pdf) |
+| **ADCmapp** | ADC mapping of diffusion-weighted data | [0.2.1 (101 MB)](https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.2.1/ADCmapp-0.2.1-macOS-arm64.dmg) | [PDF](https://moby1971.github.io/MRI-apps/manuals/adcmapp-manual.pdf) |
+| **DSCmapp** | Hemodynamic and vascular maps of the brain from dynamic susceptibility contrast (DSC) MRI | [0.1.0 (101 MB)](https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-v0.1.0/DSCmapp-0.1.0-macOS-arm64.dmg) | [PDF](https://moby1971.github.io/MRI-apps/manuals/dscmapp-manual.pdf) |
 
-DSCmapp (MATLAB) is the earlier MATLAB version for Windows, installed with the free MATLAB Runtime. Windows installers of the other apps will follow. Earlier versions are on the [Releases](https://github.com/Moby1971/MRI-apps/releases) page.
+Windows installers will follow. Earlier versions are on the [Releases](https://github.com/Moby1971/MRI-apps/releases) page.
 
 ## Installing on macOS
 
@@ -39,12 +38,6 @@ Requirements: a Mac with Apple silicon (M1 or later) and macOS 26 or later.
 
 "Read me first.txt" inside each disk image has the details for that app, such as the optional
 BART toolbox.
-
-## Installing on Windows
-
-Windows 10 or 11 (64-bit). Run the downloaded setup program; the installer of DSCmapp (MATLAB) also
-installs the free MATLAB Runtime it needs. Windows may warn that the publisher is unknown: click **More info**
-and then **Run anyway**.
 
 ## Contact
 
