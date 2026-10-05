@@ -9,14 +9,14 @@ These are beta versions.
 
 ## Downloads
 
-| App | What it does | macOS (Apple silicon) | Manual |
-|:---:|---|---|---|
-| <img src="https://moby1971.github.io/MRI-apps/images/icons/retrospective.png" width="40" height="40" alt=""><br>**Retrospective** | Reconstruction of self-gated cardiac and respiratory CINE MRI, with automatic LV segmentation | [0.2.3 (251 MB)](https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.2.3/Retrospective-0.2.3-macOS-arm64.dmg) | [PDF](https://moby1971.github.io/MRI-apps/manuals/retrospective-manual.pdf) |
-| <img src="https://moby1971.github.io/MRI-apps/images/icons/p2roud.png" width="40" height="40" alt=""><br>**P2ROUD** | Reconstruction of (undersampled) Cartesian, radial, UTE, ZTE and EPI data | [0.2.2 (130 MB)](https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.2.2/P2ROUD-0.2.2-macOS-arm64.dmg) | [PDF](https://moby1971.github.io/MRI-apps/manuals/p2roud-manual.pdf) |
-| <img src="https://moby1971.github.io/MRI-apps/images/icons/t1mapp.png" width="40" height="40" alt=""><br>**T1mapp** | T₁ mapping: inversion recovery (Look-Locker), saturation recovery and variable flip angle | [0.2.2 (151 MB)](https://github.com/Moby1971/MRI-apps/releases/download/t1mapp-v0.2.2/T1mapp-0.2.2-macOS-arm64.dmg) | [PDF](https://moby1971.github.io/MRI-apps/manuals/t1mapp-manual.pdf) |
-| <img src="https://moby1971.github.io/MRI-apps/images/icons/t2mapp.png" width="40" height="40" alt=""><br>**T2mapp** | T₂ and T₂* mapping | [0.2.2 (151 MB)](https://github.com/Moby1971/MRI-apps/releases/download/t2mapp-v0.2.2/T2mapp-0.2.2-macOS-arm64.dmg) | [PDF](https://moby1971.github.io/MRI-apps/manuals/t2mapp-manual.pdf) |
-| <img src="https://moby1971.github.io/MRI-apps/images/icons/adcmapp.png" width="40" height="40" alt=""><br>**ADCmapp** | ADC mapping of diffusion-weighted data | [0.2.2 (99 MB)](https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.2.2/ADCmapp-0.2.2-macOS-arm64.dmg) | [PDF](https://moby1971.github.io/MRI-apps/manuals/adcmapp-manual.pdf) |
-| <img src="https://moby1971.github.io/MRI-apps/images/icons/dscmapp.png" width="40" height="40" alt=""><br>**DSCmapp** | Hemodynamic and vascular maps of the brain from dynamic susceptibility contrast (DSC) MRI | [0.1.1 (98 MB)](https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-v0.1.1/DSCmapp-0.1.1-macOS-arm64.dmg) | [PDF](https://moby1971.github.io/MRI-apps/manuals/dscmapp-manual.pdf) |
+| App | What it does | macOS (Apple silicon) | Windows (64-bit) | Manual |
+|:---:|---|---|---|---|
+| <img src="https://moby1971.github.io/MRI-apps/images/icons/retrospective.png" width="40" height="40" alt=""><br>**Retrospective** | Reconstruction of self-gated cardiac and respiratory CINE MRI, with automatic LV segmentation | [0.2.3 (251 MB)](https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.2.3/Retrospective-0.2.3-macOS-arm64.dmg) | – | [PDF](https://moby1971.github.io/MRI-apps/manuals/retrospective-manual.pdf) |
+| <img src="https://moby1971.github.io/MRI-apps/images/icons/p2roud.png" width="40" height="40" alt=""><br>**P2ROUD** | Reconstruction of (undersampled) Cartesian, radial, UTE, ZTE and EPI data | [0.2.2 (130 MB)](https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.2.2/P2ROUD-0.2.2-macOS-arm64.dmg) | – | [PDF](https://moby1971.github.io/MRI-apps/manuals/p2roud-manual.pdf) |
+| <img src="https://moby1971.github.io/MRI-apps/images/icons/t1mapp.png" width="40" height="40" alt=""><br>**T1mapp** | T₁ mapping: inversion recovery (Look-Locker), saturation recovery and variable flip angle | [0.2.2 (151 MB)](https://github.com/Moby1971/MRI-apps/releases/download/t1mapp-v0.2.2/T1mapp-0.2.2-macOS-arm64.dmg) | – | [PDF](https://moby1971.github.io/MRI-apps/manuals/t1mapp-manual.pdf) |
+| <img src="https://moby1971.github.io/MRI-apps/images/icons/t2mapp.png" width="40" height="40" alt=""><br>**T2mapp** | T₂ and T₂* mapping | [0.2.2 (151 MB)](https://github.com/Moby1971/MRI-apps/releases/download/t2mapp-v0.2.2/T2mapp-0.2.2-macOS-arm64.dmg) | – | [PDF](https://moby1971.github.io/MRI-apps/manuals/t2mapp-manual.pdf) |
+| <img src="https://moby1971.github.io/MRI-apps/images/icons/adcmapp.png" width="40" height="40" alt=""><br>**ADCmapp** | ADC mapping of diffusion-weighted data | [0.2.2 (99 MB)](https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.2.2/ADCmapp-0.2.2-macOS-arm64.dmg) | – | [PDF](https://moby1971.github.io/MRI-apps/manuals/adcmapp-manual.pdf) |
+| <img src="https://moby1971.github.io/MRI-apps/images/icons/dscmapp.png" width="40" height="40" alt=""><br>**DSCmapp** | Hemodynamic and vascular maps of the brain from dynamic susceptibility contrast (DSC) MRI | [0.1.1 (98 MB)](https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-v0.1.1/DSCmapp-0.1.1-macOS-arm64.dmg) | – | [PDF](https://moby1971.github.io/MRI-apps/manuals/dscmapp-manual.pdf) |
 
 Windows installers will follow.
 
@@ -38,6 +38,18 @@ Requirements: a Mac with Apple silicon (M1 or later) and macOS 26 or later.
 
 "Read me first.txt" inside each disk image has the details for that app, such as the optional
 BART toolbox.
+
+## Installing on Windows
+
+Requirements: a PC with 64-bit Windows 10 or 11.
+
+1. Run the downloaded installer. The installers are not signed, so Windows may stop it the first
+   time ("Windows protected your PC"): click **More info** and then **Run anyway**.
+2. The app installs for your own account, without administrator rights, with a Start menu entry, an
+   optional desktop shortcut and an uninstaller. Nothing else has to be installed.
+
+The manuals have the details for each app, such as the optional BART toolbox, which on Windows runs
+inside the Windows Subsystem for Linux (WSL).
 
 ## Contact
 
