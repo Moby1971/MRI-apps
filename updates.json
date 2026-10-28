@@ -1,0 +1,141 @@
+{
+ "format": 1,
+ "published": "2026-10-28T19:25:40Z",
+ "apps": {
+  "Retrospective": {
+   "version": "0.5.3",
+   "note": "Opens a scan given at startup; the window has the standard MRI-apps size.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.5.3",
+   "macos": {
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.5.3/Retrospective-0.5.3-macOS-arm64.dmg",
+    "sha256": "3480d97acc89c1ae89b5ac1e8e5e2dd60675b2c3a7f786a86de81fc34681b6ca",
+    "size": 450855424
+   },
+   "windows": {
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.5.3/Retrospective-0.5.3-setup.exe",
+    "sha256": "d09eb72bcc409e04e9b3527c2c0355b726fdba3488ef43d00cfbb78ceb48a081",
+    "size": 375228139
+   }
+  },
+  "P2ROUD": {
+   "version": "0.4.9",
+   "note": "The TE field shows two decimals.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/p2roud-v0.4.9",
+   "macos": {
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.4.9/P2ROUD-0.4.9-macOS-arm64.dmg",
+    "sha256": "f17bf42e701f8dc30033318ba584b6a2b0a48f4c503f6cf49682cd28d8b15cdc",
+    "size": 137711616
+   },
+   "windows": {
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.4.9/P2ROUD-0.4.9-setup.exe",
+    "sha256": "c83c3ca36ab804ab5486fa49a24c94b091c26b7e73ef323bf307232c76c3f8ee",
+    "size": 114856042
+   }
+  },
+  "T1mapp": {
+   "version": "0.4.1",
+   "note": "Opens a scan given at startup.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/t1mapp-v0.4.1",
+   "macos": {
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/t1mapp-v0.4.1/T1mapp-0.4.1-macOS-arm64.dmg",
+    "sha256": "508f10a629a7dbcd17e477322043766edb196ff110b391391afe2d96765c9acf",
+    "size": 158735872
+   },
+   "windows": {
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/t1mapp-v0.4.1/T1mapp-0.4.1-setup.exe",
+    "sha256": "09840e1e2ad26c8a7b84240deb8e468807b7a3220cc21d4ef4481c178fb21129",
+    "size": 119630643
+   }
+  },
+  "T2mapp": {
+   "version": "0.4.5",
+   "note": "Opens a scan given at startup.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/t2mapp-v0.4.5",
+   "macos": {
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/t2mapp-v0.4.5/T2mapp-0.4.5-macOS-arm64.dmg",
+    "sha256": "88c61042aab9b8b4c9fa2ded6da1ddfb69b6cac155da7f490816f7c100f530d1",
+    "size": 163685888
+   },
+   "windows": {
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/t2mapp-v0.4.5/T2mapp-0.4.5-setup.exe",
+    "sha256": "147731fa75f1090fc3763838eec425c1f7b2d02f611b968e794194f703b69e76",
+    "size": 121736840
+   }
+  },
+  "ADCmapp": {
+   "version": "0.4.0",
+   "note": "Opens a scan given at startup.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/adcmapp-v0.4.0",
+   "macos": {
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.4.0/ADCmapp-0.4.0-macOS-arm64.dmg",
+    "sha256": "6c41fb1cbcad88348c0e03212ca67d15d4a34301dc8cbf3a7676da1c8c3a990a",
+    "size": 104188416
+   },
+   "windows": {
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.4.0/ADCmapp-0.4.0-setup.exe",
+    "sha256": "3b791499eca350900725a556d48f3745184a121993c45e7a79dfa5ef91f7fb34",
+    "size": 79089177
+   }
+  },
+  "DSCmapp": {
+   "version": "0.2.8",
+   "note": "Opens a scan given at startup.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dscmapp-v0.2.8",
+   "macos": {
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-v0.2.8/DSCmapp-0.2.8-macOS-arm64.dmg",
+    "sha256": "2be16ead028995b57f64e9ba6f0017867c241e8fcee7e15239d89451be9f67ea",
+    "size": 102453248
+   },
+   "windows": {
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-v0.2.8/DSCmapp-0.2.8-setup.exe",
+    "sha256": "85e84442ecc2cfeb3c24388a7613e79ce1e3f4506037aae8bc6bb0f86ebdd336",
+    "size": 78559665
+   }
+  },
+  "SHIMapp": {
+   "version": "0.5.0",
+   "note": "Picks a reconstruction engine that works and says which (sigpy when BART fails); no spaces in exported names.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/shimapp-v0.5.0",
+   "macos": {
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.5.0/SHIMapp-0.5.0-macOS-arm64.dmg",
+    "sha256": "c7de24f782ef57b9db122c6b03630ad9be40c72d348535f21962d4c1e4056e8e",
+    "size": 130822656
+   },
+   "windows": {
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.5.0/SHIMapp-0.5.0-setup.exe",
+    "sha256": "7d349fca6a99d774d42d70d14d3c15b9fdf3d7ce878486ad3177c850485497ea",
+    "size": 107426701
+   }
+  },
+  "TRAJapp": {
+   "version": "0.2.3",
+   "note": "Opens a scan given at startup; the window has the standard MRI-apps size.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/trajapp-v0.2.3",
+   "macos": {
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/trajapp-v0.2.3/TRAJapp-0.2.3-macOS-arm64.dmg",
+    "sha256": "9cc577ae9722278b48beb219613016c75b74f675f86d5e3053655c7615d3ce7a",
+    "size": 75842048
+   },
+   "windows": {
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/trajapp-v0.2.3/TRAJapp-0.2.3-setup.exe",
+    "sha256": "5bc3160d0b5f2b521add2de15939b1d5e7186455da8c0ecffc5f3d690dc19e73",
+    "size": 69093186
+   }
+  },
+  "DATAapp": {
+   "version": "0.1.1",
+   "note": "Shows preclinical MRI scans only; HDF5 data files show their images.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.1.1",
+   "macos": {
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.1.1/DATAapp-0.1.1-macOS-arm64.dmg",
+    "sha256": "ca549a886dd857b4859e86ffa3978de51fdbb2c7ee934ede33ffa45f0763a803",
+    "size": 83132416
+   },
+   "windows": {
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.1.1/DATAapp-0.1.1-setup.exe",
+    "sha256": "4f09d5304f46bd7ef6ff7efa8d06a4899f42d41b67f4c46fb62443f962328fdd",
+    "size": 77817859
+   }
+  }
+ }
+}
