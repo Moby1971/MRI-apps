@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-10-29T06:35:37Z",
+ "published": "2026-10-29T06:37:36Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.4",
@@ -78,18 +78,18 @@
    }
   },
   "DSCmapp": {
-   "version": "0.2.8",
-   "note": "Opens a scan given at startup.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dscmapp-v0.2.8",
+   "version": "0.2.9",
+   "note": "Automatic updates: new versions download in the background and install with Install and Restart, or at quit. On/off and Check now in the settings.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dscmapp-v0.2.9",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-v0.2.8/DSCmapp-0.2.8-macOS-arm64.dmg",
-    "sha256": "2be16ead028995b57f64e9ba6f0017867c241e8fcee7e15239d89451be9f67ea",
-    "size": 102453248
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-v0.2.9/DSCmapp-0.2.9-macOS-arm64.dmg",
+    "sha256": "f8d5d27c390f35ff2b57415253795519e7358efc7cbcff66b088270d781a2d6f",
+    "size": 102625280
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-v0.2.8/DSCmapp-0.2.8-setup.exe",
-    "sha256": "85e84442ecc2cfeb3c24388a7613e79ce1e3f4506037aae8bc6bb0f86ebdd336",
-    "size": 78559665
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-v0.2.9/DSCmapp-0.2.9-setup.exe",
+    "sha256": "2d7f0a69d0d5d88be57e5464cb2afe1fc70d29593bc74336a08c3be3e7c5d376",
+    "size": 78645103
    }
   },
   "SHIMapp": {
