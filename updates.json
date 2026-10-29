@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-10-29T06:31:30Z",
+ "published": "2026-10-29T06:33:38Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.4",
@@ -48,18 +48,18 @@
    }
   },
   "T2mapp": {
-   "version": "0.4.5",
-   "note": "Opens a scan given at startup.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/t2mapp-v0.4.5",
+   "version": "0.4.6",
+   "note": "Automatic updates: new versions download in the background and install with Install and Restart, or at quit. On/off and Check now in the settings.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/t2mapp-v0.4.6",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/t2mapp-v0.4.5/T2mapp-0.4.5-macOS-arm64.dmg",
-    "sha256": "88c61042aab9b8b4c9fa2ded6da1ddfb69b6cac155da7f490816f7c100f530d1",
-    "size": 163685888
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/t2mapp-v0.4.6/T2mapp-0.4.6-macOS-arm64.dmg",
+    "sha256": "18b75f1dfc4b298ed5a1f56398ed426eea649e903b242837c8fec598194f94a2",
+    "size": 163856384
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/t2mapp-v0.4.5/T2mapp-0.4.5-setup.exe",
-    "sha256": "147731fa75f1090fc3763838eec425c1f7b2d02f611b968e794194f703b69e76",
-    "size": 121736840
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/t2mapp-v0.4.6/T2mapp-0.4.6-setup.exe",
+    "sha256": "7560bc3a9271b347bc7d439ee8c41112e14163945fa525ded881103b8521c7f4",
+    "size": 121831099
    }
   },
   "ADCmapp": {
