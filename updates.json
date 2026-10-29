@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-10-28T19:25:40Z",
+ "published": "2026-10-29T06:24:11Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.3",
@@ -123,18 +123,18 @@
    }
   },
   "DATAapp": {
-   "version": "0.1.1",
-   "note": "Shows preclinical MRI scans only; HDF5 data files show their images.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.1.1",
+   "version": "0.1.2",
+   "note": "Automatic updates: new versions download in the background and install with Install and Restart, or at quit. On/off and Check now in the settings.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.1.2",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.1.1/DATAapp-0.1.1-macOS-arm64.dmg",
-    "sha256": "ca549a886dd857b4859e86ffa3978de51fdbb2c7ee934ede33ffa45f0763a803",
-    "size": 83132416
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.1.2/DATAapp-0.1.2-macOS-arm64.dmg",
+    "sha256": "b9046d98ea7954d37e3b8fa2c599da9e2a3090ea075c0e940b0603f493e66737",
+    "size": 83313152
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.1.1/DATAapp-0.1.1-setup.exe",
-    "sha256": "4f09d5304f46bd7ef6ff7efa8d06a4899f42d41b67f4c46fb62443f962328fdd",
-    "size": 77817859
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.1.2/DATAapp-0.1.2-setup.exe",
+    "sha256": "caa14f846494862264d282797c35f424f83d092ac9b0e625869a55412fcac524",
+    "size": 77897644
    }
   }
  }
