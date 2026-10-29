@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-10-29T06:37:36Z",
+ "published": "2026-10-29T06:39:41Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.4",
@@ -93,18 +93,18 @@
    }
   },
   "SHIMapp": {
-   "version": "0.5.0",
-   "note": "Picks a reconstruction engine that works and says which (sigpy when BART fails); no spaces in exported names.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/shimapp-v0.5.0",
+   "version": "0.5.1",
+   "note": "Automatic updates: new versions download in the background and install with Install and Restart, or at quit. On/off and Check now in the settings.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/shimapp-v0.5.1",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.5.0/SHIMapp-0.5.0-macOS-arm64.dmg",
-    "sha256": "c7de24f782ef57b9db122c6b03630ad9be40c72d348535f21962d4c1e4056e8e",
-    "size": 130822656
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.5.1/SHIMapp-0.5.1-macOS-arm64.dmg",
+    "sha256": "9a2f170515683b28218a8ea59dfafad881141029d53c1b9f25bd5c1cfff99232",
+    "size": 131037184
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.5.0/SHIMapp-0.5.0-setup.exe",
-    "sha256": "7d349fca6a99d774d42d70d14d3c15b9fdf3d7ce878486ad3177c850485497ea",
-    "size": 107426701
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.5.1/SHIMapp-0.5.1-setup.exe",
+    "sha256": "4931ac382f36f9fa4cb5a27a5905d4483b0605eca1c4ab102029d5d21582fe01",
+    "size": 107491920
    }
   },
   "TRAJapp": {
