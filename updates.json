@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-10-29T08:53:45Z",
+ "published": "2026-10-29T09:25:28Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.4",
@@ -123,18 +123,18 @@
    }
   },
   "DATAapp": {
-   "version": "0.1.4",
-   "note": "Quieter indexing: the newest exams are checked without listing every folder, the lamps light only when something is read, and the next full pass waits as long as the last one took.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.1.4",
+   "version": "0.1.5",
+   "note": "Opens in seconds and shows the DATAapp logo while it starts; quieter folder indexing, its lamp no longer flashes; very large series are no longer skipped.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.1.5",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.1.4/DATAapp-0.1.4-macOS-arm64.dmg",
-    "sha256": "5fc78d3a81fcd1d23353e7dc616add7214d340643be4d0b3d056c3f198ea2e05",
-    "size": 83345408
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.1.5/DATAapp-0.1.5-macOS-arm64.dmg",
+    "sha256": "026599d9193741bf0050780895d596d3eb35ad01387dad24981e77d6e5d369f2",
+    "size": 83548672
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.1.4/DATAapp-0.1.4-setup.exe",
-    "sha256": "e1bd187c7ed674a045f7a67d7b863d187755e98295a9731cdd55b9ff87220d5b",
-    "size": 77920287
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.1.5/DATAapp-0.1.5-setup.exe",
+    "sha256": "a744d397ea38b94346525d01b668810661211edda0bd936854f14e4fed98b4c2",
+    "size": 78089023
    }
   }
  }
