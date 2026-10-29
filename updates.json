@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-10-29T14:17:46Z",
+ "published": "2026-10-29T14:19:21Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.5",
@@ -123,18 +123,18 @@
    }
   },
   "DATAapp": {
-   "version": "0.1.6",
-   "note": "Export saves a folder with an Excel workbook of the scans and an overview page of eight figures, each scan counted once; on Windows the window opens without a white flash.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.1.6",
+   "version": "0.1.8",
+   "note": "On the Mac, the app now always shows as an app in the Dock and the Finder after an automatic update. The export names only the folders switched on; the progress bar and the message box say more clearly what the indexers do.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.1.8",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.1.6/DATAapp-0.1.6-macOS-arm64.dmg",
-    "sha256": "272042e458dd396d27a0c9430f8069a4779f1340903f99ab92e6d7067d2a8818",
-    "size": 83977728
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.1.8/DATAapp-0.1.8-macOS-arm64.dmg",
+    "sha256": "15fff21e4b9832983db2b7535b35c3661e8acf3f61e1e9d36230c42600df77e3",
+    "size": 83996672
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.1.6/DATAapp-0.1.6-setup.exe",
-    "sha256": "293ce01002a2a844c6fbf3ec5c67611d5235fcea9af83f74b4e7866463a6d965",
-    "size": 78357763
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.1.8/DATAapp-0.1.8-setup.exe",
+    "sha256": "e58aa424de4d3a78041ac0b0f347c321a59415db20758e8a765c371ef7dfc7df",
+    "size": 78374975
    }
   }
  }
