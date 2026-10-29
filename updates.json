@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-10-29T06:39:41Z",
+ "published": "2026-10-29T06:41:36Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.4",
@@ -108,18 +108,18 @@
    }
   },
   "TRAJapp": {
-   "version": "0.2.3",
-   "note": "Opens a scan given at startup; the window has the standard MRI-apps size.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/trajapp-v0.2.3",
+   "version": "0.2.4",
+   "note": "Automatic updates: new versions download in the background and install with Install and Restart, or at quit. On/off and Check now in the settings.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/trajapp-v0.2.4",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/trajapp-v0.2.3/TRAJapp-0.2.3-macOS-arm64.dmg",
-    "sha256": "9cc577ae9722278b48beb219613016c75b74f675f86d5e3053655c7615d3ce7a",
-    "size": 75842048
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/trajapp-v0.2.4/TRAJapp-0.2.4-macOS-arm64.dmg",
+    "sha256": "c6f7b6b7e94932b88c2a7d3a90b2e61034d401cc3e9c1a7383fcbd8c252a56b0",
+    "size": 76047360
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/trajapp-v0.2.3/TRAJapp-0.2.3-setup.exe",
-    "sha256": "5bc3160d0b5f2b521add2de15939b1d5e7186455da8c0ecffc5f3d690dc19e73",
-    "size": 69093186
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/trajapp-v0.2.4/TRAJapp-0.2.4-setup.exe",
+    "sha256": "04e0e550950cd1b7976fc86d8aee907744b4dedee1bc5fc67c9d2af0c7ae8413",
+    "size": 69167911
    }
   },
   "DATAapp": {
