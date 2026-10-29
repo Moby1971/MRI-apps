@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-10-29T06:29:24Z",
+ "published": "2026-10-29T06:31:30Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.4",
@@ -33,18 +33,18 @@
    }
   },
   "T1mapp": {
-   "version": "0.4.1",
-   "note": "Opens a scan given at startup.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/t1mapp-v0.4.1",
+   "version": "0.4.2",
+   "note": "Automatic updates: new versions download in the background and install with Install and Restart, or at quit. On/off and Check now in the settings.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/t1mapp-v0.4.2",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/t1mapp-v0.4.1/T1mapp-0.4.1-macOS-arm64.dmg",
-    "sha256": "508f10a629a7dbcd17e477322043766edb196ff110b391391afe2d96765c9acf",
-    "size": 158735872
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/t1mapp-v0.4.2/T1mapp-0.4.2-macOS-arm64.dmg",
+    "sha256": "723d6b617534c76e63e2afef0c8d2fa548f20d1fc963e8df86adc726b1254d87",
+    "size": 158939648
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/t1mapp-v0.4.1/T1mapp-0.4.1-setup.exe",
-    "sha256": "09840e1e2ad26c8a7b84240deb8e468807b7a3220cc21d4ef4481c178fb21129",
-    "size": 119630643
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/t1mapp-v0.4.2/T1mapp-0.4.2-setup.exe",
+    "sha256": "bb2f429f53497930690005a98418175c0b499ccc1e1eab889f348d1647e688b1",
+    "size": 119709418
    }
   },
   "T2mapp": {
