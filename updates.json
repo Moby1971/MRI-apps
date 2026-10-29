@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-10-29T06:41:36Z",
+ "published": "2026-10-29T07:18:39Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.4",
@@ -123,18 +123,18 @@
    }
   },
   "DATAapp": {
-   "version": "0.1.2",
-   "note": "Automatic updates: new versions download in the background and install with Install and Restart, or at quit. On/off and Check now in the settings.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.1.2",
+   "version": "0.1.3",
+   "note": "Every exam is listed, with no 5000-scan limit; after a reader update only the folders it concerns are re-read.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.1.3",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.1.2/DATAapp-0.1.2-macOS-arm64.dmg",
-    "sha256": "b9046d98ea7954d37e3b8fa2c599da9e2a3090ea075c0e940b0603f493e66737",
-    "size": 83313152
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.1.3/DATAapp-0.1.3-macOS-arm64.dmg",
+    "sha256": "5fb2c74f1a7be2ebdf6944aee9c00382f7cb081f60ec1c18b16eb58f4956ab1b",
+    "size": 83351552
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.1.2/DATAapp-0.1.2-setup.exe",
-    "sha256": "caa14f846494862264d282797c35f424f83d092ac9b0e625869a55412fcac524",
-    "size": 77897644
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.1.3/DATAapp-0.1.3-setup.exe",
+    "sha256": "79f639c1ff88ed1d1b92109f1bc57ce16f0d0f613a6225fb4e862e7355950c1a",
+    "size": 77916545
    }
   }
  }
