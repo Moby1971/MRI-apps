@@ -1,20 +1,20 @@
 {
  "format": 1,
- "published": "2026-10-29T06:24:11Z",
+ "published": "2026-10-29T06:27:16Z",
  "apps": {
   "Retrospective": {
-   "version": "0.5.3",
-   "note": "Opens a scan given at startup; the window has the standard MRI-apps size.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.5.3",
+   "version": "0.5.4",
+   "note": "Automatic updates: new versions download in the background and install with Install and Restart, or at quit. On/off and Check now in the settings. Settings split into Nav settings and App settings tabs.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.5.4",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.5.3/Retrospective-0.5.3-macOS-arm64.dmg",
-    "sha256": "3480d97acc89c1ae89b5ac1e8e5e2dd60675b2c3a7f786a86de81fc34681b6ca",
-    "size": 450855424
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.5.4/Retrospective-0.5.4-macOS-arm64.dmg",
+    "sha256": "0eafd66e254da85a9da7a54ce78edf7ebcd50a6e1ba8eda4812d9b8ac5042356",
+    "size": 451123712
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.5.3/Retrospective-0.5.3-setup.exe",
-    "sha256": "d09eb72bcc409e04e9b3527c2c0355b726fdba3488ef43d00cfbb78ceb48a081",
-    "size": 375228139
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.5.4/Retrospective-0.5.4-setup.exe",
+    "sha256": "81b071adb5c7716fcd6e45b5993bad99b4e21e183c7e37dac66eaa7d2d9364ca",
+    "size": 375309578
    }
   },
   "P2ROUD": {
