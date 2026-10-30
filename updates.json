@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-10-30T20:43:22Z",
+ "published": "2026-10-30T20:45:21Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.5",
@@ -93,18 +93,18 @@
    }
   },
   "SHIMapp": {
-   "version": "0.5.2",
-   "note": "On the Mac, the app now always shows as an app in the Dock and the Finder after an automatic update.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/shimapp-v0.5.2",
+   "version": "0.5.3",
+   "note": "Pressing a main button again with nothing changed keeps the result and says so.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/shimapp-v0.5.3",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.5.2/SHIMapp-0.5.2-macOS-arm64.dmg",
-    "sha256": "28098558da1e8054d361f3102b03a9fc3aff42c7c4478c23a9152bbb29be0748",
-    "size": 131042816
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.5.3/SHIMapp-0.5.3-macOS-arm64.dmg",
+    "sha256": "ea9da1f30c89c84d3e525dde11104ad94107cf74eb98f99dbb8bcf93a098b111",
+    "size": 131062272
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.5.2/SHIMapp-0.5.2-setup.exe",
-    "sha256": "e950a8126b4c0bbf43b61f8e279abec0da45e6cfe8c07abe1c0e90fded0b2861",
-    "size": 107493347
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.5.3/SHIMapp-0.5.3-setup.exe",
+    "sha256": "f469472002917118491e7af896d9bc2eba951f17db810d06dc8a26f0d24e9fec",
+    "size": 107525790
    }
   },
   "TRAJapp": {
