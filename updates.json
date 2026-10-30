@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-10-30T20:41:29Z",
+ "published": "2026-10-30T20:43:22Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.5",
@@ -78,18 +78,18 @@
    }
   },
   "DSCmapp": {
-   "version": "0.3.0",
-   "note": "On the Mac, the app now always shows as an app in the Dock and the Finder after an automatic update.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dscmapp-v0.3.0",
+   "version": "0.3.1",
+   "note": "Pressing a main button again with nothing changed keeps the result and says so. Registration gives the same result on every computer. The AIF is found after registration.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dscmapp-v0.3.1",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-v0.3.0/DSCmapp-0.3.0-macOS-arm64.dmg",
-    "sha256": "ea4d278c55962bdb0730c8560394a143f513c8a96cfb0a33ad0da953410010e0",
-    "size": 102625280
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-v0.3.1/DSCmapp-0.3.1-macOS-arm64.dmg",
+    "sha256": "2ee2298428f85278435fe9cc2aa2b501f4bcac59ebee43277e4f72d29011548b",
+    "size": 102660608
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-v0.3.0/DSCmapp-0.3.0-setup.exe",
-    "sha256": "a84cd009970c96946cca727749fdddcc32f2762479723f9fa1942abca7300599",
-    "size": 78650097
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-v0.3.1/DSCmapp-0.3.1-setup.exe",
+    "sha256": "159e9bbaad50678d6477d1bb0e535bcd9b46eaf032c80eea886518541875a66a",
+    "size": 78679320
    }
   },
   "SHIMapp": {
