@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-10-30T20:00:44Z",
+ "published": "2026-10-30T20:08:14Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.5",
@@ -33,18 +33,18 @@
    }
   },
   "T1mapp": {
-   "version": "0.4.3",
-   "note": "On the Mac, the app now always shows as an app in the Dock and the Finder after an automatic update.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/t1mapp-v0.4.3",
+   "version": "0.4.4",
+   "note": "Pressing a main button again with nothing changed keeps the result and says so. Registration gives the same result on every computer.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/t1mapp-v0.4.4",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/t1mapp-v0.4.3/T1mapp-0.4.3-macOS-arm64.dmg",
-    "sha256": "737be5301aeb1d09d8ef33cbd188dc61a3686e5f714ae173f4c36a36f55572da",
-    "size": 158940160
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/t1mapp-v0.4.4/T1mapp-0.4.4-macOS-arm64.dmg",
+    "sha256": "c01b7c01fdbdf75d669a96ddd5d5461b97ada7f22026f669457a8ab556b5dbe2",
+    "size": 159000064
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/t1mapp-v0.4.3/T1mapp-0.4.3-setup.exe",
-    "sha256": "57691373b353ab14bb2ca22996db1120955348d6c6870f546524b67548101bdf",
-    "size": 119712932
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/t1mapp-v0.4.4/T1mapp-0.4.4-setup.exe",
+    "sha256": "271ba588e15b1453821d426c8a23da92c326d7d1c13108ecd3e65ca4adc0ceb3",
+    "size": 119760612
    }
   },
   "T2mapp": {
