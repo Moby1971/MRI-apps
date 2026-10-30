@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-10-29T14:31:41Z",
+ "published": "2026-10-30T20:00:44Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.5",
@@ -123,18 +123,18 @@
    }
   },
   "DATAapp": {
-   "version": "0.1.8",
-   "note": "On the Mac, the app now always shows as an app in the Dock and the Finder after an automatic update. The export names only the folders switched on; the progress bar and the message box say more clearly what the indexers do.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.1.8",
+   "version": "0.2.1",
+   "note": "Searching is twice as fast and the window no longer pauses while the indexers work. Fitted maps are shown without their outliers, the results list keeps its place while scans are added, and maps can be opened with MAPapp. The scanner's folders are found on any drive, and extra data locations can be added in the settings.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.2.1",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.1.8/DATAapp-0.1.8-macOS-arm64.dmg",
-    "sha256": "15fff21e4b9832983db2b7535b35c3661e8acf3f61e1e9d36230c42600df77e3",
-    "size": 83996672
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.2.1/DATAapp-0.2.1-macOS-arm64.dmg",
+    "sha256": "f6c54c5bb9b6c08013e079da91de729d851bb0f90d4ed9585de493e684bb9073",
+    "size": 84164096
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.1.8/DATAapp-0.1.8-setup.exe",
-    "sha256": "e58aa424de4d3a78041ac0b0f347c321a59415db20758e8a765c371ef7dfc7df",
-    "size": 78374975
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.2.1/DATAapp-0.2.1-setup.exe",
+    "sha256": "bc66ac9bc15b7caf8ed81de502e779e8ed6c5a64846812b77cbdfb8a98bd35d8",
+    "size": 78455330
    }
   }
  }
