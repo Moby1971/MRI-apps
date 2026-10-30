@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-10-30T20:16:55Z",
+ "published": "2026-10-30T20:41:29Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.5",
@@ -63,18 +63,18 @@
    }
   },
   "ADCmapp": {
-   "version": "0.4.2",
-   "note": "On the Mac, the app now always shows as an app in the Dock and the Finder after an automatic update.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/adcmapp-v0.4.2",
+   "version": "0.4.3",
+   "note": "Pressing a main button again with nothing changed keeps the result and says so. Registration gives the same result on every computer.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/adcmapp-v0.4.3",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.4.2/ADCmapp-0.4.2-macOS-arm64.dmg",
-    "sha256": "5125693614c5d4c5856ea42422cf1524a1b9395e052ad6d58f098ec8e477e504",
-    "size": 104380928
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.4.3/ADCmapp-0.4.3-macOS-arm64.dmg",
+    "sha256": "8685294ac3b709149ccb0c12b4bde9ae806c46a3c5863e47606da0720e588f73",
+    "size": 104410624
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.4.2/ADCmapp-0.4.2-setup.exe",
-    "sha256": "317337c6650cf18cda23e3bdf2331c0de514a71f80312d978031593f4b27a171",
-    "size": 79189115
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.4.3/ADCmapp-0.4.3-setup.exe",
+    "sha256": "eefb6b3cab762e1fa0ba01b860b2052e640b77731d9aa90f2dedd111270910af",
+    "size": 79200725
    }
   },
   "DSCmapp": {
