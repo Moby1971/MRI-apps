@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-10-30T20:45:21Z",
+ "published": "2026-10-30T20:47:11Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.5",
@@ -108,18 +108,18 @@
    }
   },
   "TRAJapp": {
-   "version": "0.2.6",
-   "note": "On the Mac, the app now always shows as an app in the Dock and the Finder after an automatic update.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/trajapp-v0.2.6",
+   "version": "0.2.7",
+   "note": "Pressing a main button again with nothing changed keeps the result and says so.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/trajapp-v0.2.7",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/trajapp-v0.2.6/TRAJapp-0.2.6-macOS-arm64.dmg",
-    "sha256": "3fc0920a059c2a46e12bc60794893dc11c028487c7c059ebeca66582844145ab",
-    "size": 76301312
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/trajapp-v0.2.7/TRAJapp-0.2.7-macOS-arm64.dmg",
+    "sha256": "e9574de37c422572bdf9b9e6ebbd8a8529a23c37c80fae57a132aae3832bf58f",
+    "size": 76296704
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/trajapp-v0.2.6/TRAJapp-0.2.6-setup.exe",
-    "sha256": "541644606680cc0643632901e7fd14a2201819a8fa9e7a033b4e83efb1c649ad",
-    "size": 69403585
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/trajapp-v0.2.7/TRAJapp-0.2.7-setup.exe",
+    "sha256": "5ffb4c59b32ff7803952c41cc08c8da193f36f7fae3eebdbffc93dc828975e50",
+    "size": 69424671
    }
   },
   "DATAapp": {
