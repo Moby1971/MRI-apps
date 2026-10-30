@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-10-30T20:08:14Z",
+ "published": "2026-10-30T20:16:55Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.5",
@@ -48,18 +48,18 @@
    }
   },
   "T2mapp": {
-   "version": "0.4.7",
-   "note": "On the Mac, the app now always shows as an app in the Dock and the Finder after an automatic update.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/t2mapp-v0.4.7",
+   "version": "0.4.8",
+   "note": "Pressing a main button again with nothing changed keeps the result and says so. Registration gives the same result on every computer.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/t2mapp-v0.4.8",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/t2mapp-v0.4.7/T2mapp-0.4.7-macOS-arm64.dmg",
-    "sha256": "bba2c0db6619b3c7dd843bcddac59eb9b7d22ede38e8e9aca89d283c92a5a16a",
-    "size": 163857920
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/t2mapp-v0.4.8/T2mapp-0.4.8-macOS-arm64.dmg",
+    "sha256": "5cf3a853d75723adbbccdc98254415649e4dc775d612440d128b4d1ca55fbf8e",
+    "size": 163964416
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/t2mapp-v0.4.7/T2mapp-0.4.7-setup.exe",
-    "sha256": "44becdf49e574defbde1250e66fece35eb1ea739bcfb6e31a4712d154514afc4",
-    "size": 121823731
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/t2mapp-v0.4.8/T2mapp-0.4.8-setup.exe",
+    "sha256": "25b6accd14dde93ca2b26ca37533e9f4fc1d8d6f946585589541831f5365807f",
+    "size": 121872338
    }
   },
   "ADCmapp": {
