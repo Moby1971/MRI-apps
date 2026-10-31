@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-10-31T07:08:22Z",
+ "published": "2026-10-31T11:07:03Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.6",
@@ -135,6 +135,21 @@
     "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.2.1/DATAapp-0.2.1-setup.exe",
     "sha256": "bc66ac9bc15b7caf8ed81de502e779e8ed6c5a64846812b77cbdfb8a98bd35d8",
     "size": 78455330
+   }
+  },
+  "MAPapp": {
+   "version": "0.1.0",
+   "note": "First release: T₁, T₂ and T₂* mapping in one app, with water & fat separation, QSM and ORACLE (T₁ and T₂ from phase-cycled bSSFP). It takes over the settings of T1mapp and T2mapp.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/mapapp-v0.1.0",
+   "macos": {
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.1.0/MAPapp-0.1.0-macOS-arm64.dmg",
+    "sha256": "ca9c0d7793c9008f7eddfb8581e503cf36642d0e578eb7c87c7e38368f006047",
+    "size": 167063552
+   },
+   "windows": {
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.1.0/MAPapp-0.1.0-setup.exe",
+    "sha256": "32a9cd12ca3711a5b256ad4cff98157f41e22d7488686d79681bbd3219b21fad",
+    "size": 121658389
    }
   }
  }
