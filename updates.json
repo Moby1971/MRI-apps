@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-10-31T11:07:03Z",
+ "published": "2026-10-31T14:35:37Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.6",
@@ -123,18 +123,18 @@
    }
   },
   "DATAapp": {
-   "version": "0.2.1",
-   "note": "Searching is twice as fast and the window no longer pauses while the indexers work. Fitted maps are shown without their outliers, the results list keeps its place while scans are added, and maps can be opened with MAPapp. The scanner's folders are found on any drive, and extra data locations can be added in the settings.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.2.1",
+   "version": "0.2.2",
+   "note": "Images are shown with their true proportions (non-square pixels and partial fields of view were stretched). CEST and MT scans are recognized.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.2.2",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.2.1/DATAapp-0.2.1-macOS-arm64.dmg",
-    "sha256": "f6c54c5bb9b6c08013e079da91de729d851bb0f90d4ed9585de493e684bb9073",
-    "size": 84164096
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.2.2/DATAapp-0.2.2-macOS-arm64.dmg",
+    "sha256": "fa2194b03eba0dfe3de614d67672ec33073e9b428132fa576ffb48903f698101",
+    "size": 84198400
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.2.1/DATAapp-0.2.1-setup.exe",
-    "sha256": "bc66ac9bc15b7caf8ed81de502e779e8ed6c5a64846812b77cbdfb8a98bd35d8",
-    "size": 78455330
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.2.2/DATAapp-0.2.2-setup.exe",
+    "sha256": "b1661b28174fc75ea2cbd15e25560018e14b7fbe072bac5b5ee8bdd520650420",
+    "size": 78467353
    }
   },
   "MAPapp": {
