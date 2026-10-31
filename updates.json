@@ -1,20 +1,20 @@
 {
  "format": 1,
- "published": "2026-10-31T06:37:21Z",
+ "published": "2026-10-31T07:08:22Z",
  "apps": {
   "Retrospective": {
-   "version": "0.5.5",
-   "note": "On the Mac, the app now always shows as an app in the Dock and the Finder after an automatic update.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.5.5",
+   "version": "0.5.6",
+   "note": "A thorough review: many fixes in loading, sorting, reconstruction and the exports, faster real-time sorting, and the correct readout length for older FLASH scans.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.5.6",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.5.5/Retrospective-0.5.5-macOS-arm64.dmg",
-    "sha256": "97f64494a70ca77ba822ae32c17314b151c935a1c648803aece541f026beaa74",
-    "size": 451128832
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.5.6/Retrospective-0.5.6-macOS-arm64.dmg",
+    "sha256": "641a7a1b65b633d9a21049e0ed71a347b509790efbb4ffe2bb0f8a0adbfdf799",
+    "size": 451159552
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.5.5/Retrospective-0.5.5-setup.exe",
-    "sha256": "0e6ebd036b04c402f0bcdd4ea16d32fc96c6aede8020dcfb34782ba2bae71e48",
-    "size": 375324433
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.5.6/Retrospective-0.5.6-setup.exe",
+    "sha256": "0fe31ad8f97126a64e79afdb6712c21a8587b2dbf69469b4cbf045022fa7b4e9",
+    "size": 375345763
    }
   },
   "P2ROUD": {
