@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-10-31T14:35:37Z",
+ "published": "2026-11-01T10:10:26Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.6",
@@ -123,18 +123,18 @@
    }
   },
   "DATAapp": {
-   "version": "0.2.2",
-   "note": "Images are shown with their true proportions (non-square pixels and partial fields of view were stretched). CEST and MT scans are recognized.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.2.2",
+   "version": "0.2.4",
+   "note": "Keeps working when a folder or network drive drops, also in the middle of syncing, and picks up again by itself. New on the scanner's computer: a Backup tab that copies every exam to a destination in the background, priority exams first, without ever overwriting or deleting there. The search database's options are in App settings.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.2.4",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.2.2/DATAapp-0.2.2-macOS-arm64.dmg",
-    "sha256": "fa2194b03eba0dfe3de614d67672ec33073e9b428132fa576ffb48903f698101",
-    "size": 84198400
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.2.4/DATAapp-0.2.4-macOS-arm64.dmg",
+    "sha256": "44be569297431dde25a4df093bf46ee6341e556714c2ad89e445bf960cee6772",
+    "size": 85435904
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.2.2/DATAapp-0.2.2-setup.exe",
-    "sha256": "b1661b28174fc75ea2cbd15e25560018e14b7fbe072bac5b5ee8bdd520650420",
-    "size": 78467353
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.2.4/DATAapp-0.2.4-setup.exe",
+    "sha256": "92db76a9114c572faa0c7290737a7305f0b50581ef53b6b9e5ec734c0298cc46",
+    "size": 79191637
    }
   },
   "MAPapp": {
