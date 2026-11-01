@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-01T17:44:50Z",
+ "published": "2026-11-01T17:46:53Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.6",
@@ -36,6 +36,7 @@
    "version": "0.4.4",
    "note": "Pressing a main button again with nothing changed keeps the result and says so. Registration gives the same result on every computer.",
    "release": "https://github.com/Moby1971/MRI-apps/releases/tag/t1mapp-v0.4.4",
+   "successor": "MAPapp",
    "macos": {
     "url": "https://github.com/Moby1971/MRI-apps/releases/download/t1mapp-v0.4.4/T1mapp-0.4.4-macOS-arm64.dmg",
     "sha256": "c01b7c01fdbdf75d669a96ddd5d5461b97ada7f22026f669457a8ab556b5dbe2",
@@ -51,6 +52,7 @@
    "version": "0.4.8",
    "note": "Pressing a main button again with nothing changed keeps the result and says so. Registration gives the same result on every computer.",
    "release": "https://github.com/Moby1971/MRI-apps/releases/tag/t2mapp-v0.4.8",
+   "successor": "MAPapp",
    "macos": {
     "url": "https://github.com/Moby1971/MRI-apps/releases/download/t2mapp-v0.4.8/T2mapp-0.4.8-macOS-arm64.dmg",
     "sha256": "5cf3a853d75723adbbccdc98254415649e4dc775d612440d128b4d1ca55fbf8e",
