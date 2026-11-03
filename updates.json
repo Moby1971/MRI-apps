@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-03T11:56:18Z",
+ "published": "2026-11-03T12:16:16Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.7",
@@ -95,18 +95,18 @@
    }
   },
   "SHIMapp": {
-   "version": "0.5.4",
-   "note": "Windows: an update leaves the desktop icon where you put it.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/shimapp-v0.5.4",
+   "version": "0.5.5",
+   "note": "After an Auto shim of a box, ellipsoid or brain, SHIMapp warns to leave Central Frequency unticked in Preclinical.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/shimapp-v0.5.5",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.5.4/SHIMapp-0.5.4-macOS-arm64.dmg",
-    "sha256": "884c76b5219832f7c77e33829587b318fbda08ed7dc2932ec009fc382398e3bc",
-    "size": 131066880
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.5.5/SHIMapp-0.5.5-macOS-arm64.dmg",
+    "sha256": "b0bc58685016ebf308195eab6a863dcf183e177dd00064381f413e45bb88e9d8",
+    "size": 131056128
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.5.4/SHIMapp-0.5.4-setup.exe",
-    "sha256": "560e1c16e005c9e0f9a728caf29fb42758700fc8aafdd28320a7f5519d1ede1c",
-    "size": 107516645
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.5.5/SHIMapp-0.5.5-setup.exe",
+    "sha256": "76e453e962f45f6297ac1df8d21f8b87e6bbf24361fc8e057f553e5d63088018",
+    "size": 107514859
    }
   },
   "TRAJapp": {
