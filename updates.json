@@ -1,20 +1,20 @@
 {
  "format": 1,
- "published": "2026-11-03T08:11:03Z",
+ "published": "2026-11-03T08:14:03Z",
  "apps": {
   "Retrospective": {
-   "version": "0.5.6",
-   "note": "A thorough review: many fixes in loading, sorting, reconstruction and the exports, faster real-time sorting, and the correct readout length for older FLASH scans.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.5.6",
+   "version": "0.5.7",
+   "note": "Windows: an update leaves the desktop icon where you put it.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.5.7",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.5.6/Retrospective-0.5.6-macOS-arm64.dmg",
-    "sha256": "641a7a1b65b633d9a21049e0ed71a347b509790efbb4ffe2bb0f8a0adbfdf799",
-    "size": 451159552
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.5.7/Retrospective-0.5.7-macOS-arm64.dmg",
+    "sha256": "67bd42b26b8218dc115ab487df80266812e80a1805b16a580219131ddb90ba0f",
+    "size": 451172352
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.5.6/Retrospective-0.5.6-setup.exe",
-    "sha256": "0fe31ad8f97126a64e79afdb6712c21a8587b2dbf69469b4cbf045022fa7b4e9",
-    "size": 375345763
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.5.7/Retrospective-0.5.7-setup.exe",
+    "sha256": "eb478868c98518e1d8ce3a3a0e2e9e343e936092b2cc7b9aab84888d41993a32",
+    "size": 375371582
    }
   },
   "P2ROUD": {
