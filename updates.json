@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-03T08:07:17Z",
+ "published": "2026-11-03T08:09:16Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.6",
@@ -95,18 +95,18 @@
    }
   },
   "SHIMapp": {
-   "version": "0.5.3",
-   "note": "Pressing a main button again with nothing changed keeps the result and says so.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/shimapp-v0.5.3",
+   "version": "0.5.4",
+   "note": "Windows: an update leaves the desktop icon where you put it.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/shimapp-v0.5.4",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.5.3/SHIMapp-0.5.3-macOS-arm64.dmg",
-    "sha256": "ea9da1f30c89c84d3e525dde11104ad94107cf74eb98f99dbb8bcf93a098b111",
-    "size": 131062272
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.5.4/SHIMapp-0.5.4-macOS-arm64.dmg",
+    "sha256": "884c76b5219832f7c77e33829587b318fbda08ed7dc2932ec009fc382398e3bc",
+    "size": 131066880
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.5.3/SHIMapp-0.5.3-setup.exe",
-    "sha256": "f469472002917118491e7af896d9bc2eba951f17db810d06dc8a26f0d24e9fec",
-    "size": 107525790
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.5.4/SHIMapp-0.5.4-setup.exe",
+    "sha256": "560e1c16e005c9e0f9a728caf29fb42758700fc8aafdd28320a7f5519d1ede1c",
+    "size": 107516645
    }
   },
   "TRAJapp": {
