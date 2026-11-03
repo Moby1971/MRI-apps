@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-01T17:46:53Z",
+ "published": "2026-11-03T05:13:22Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.6",
@@ -18,18 +18,18 @@
    }
   },
   "P2ROUD": {
-   "version": "0.5.2",
-   "note": "Pressing a main button again with nothing changed keeps the result and says so.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/p2roud-v0.5.2",
+   "version": "0.5.3",
+   "note": "ZTE: a first FID sample that holds RF pulse signal is left out.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/p2roud-v0.5.3",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.5.2/P2ROUD-0.5.2-macOS-arm64.dmg",
-    "sha256": "8bb453a03382cbfb37fbd8732c151a9315f55449d16324c240188f487f5251d6",
-    "size": 137907712
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.5.3/P2ROUD-0.5.3-macOS-arm64.dmg",
+    "sha256": "043e60d1446ee264c31e2ed351f323626ca2c77018c3b7a767aeed1d57f77589",
+    "size": 137925632
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.5.2/P2ROUD-0.5.2-setup.exe",
-    "sha256": "ec5e612b5ef6f138deb0938d120b2c564d92a211a942e58c46ad823d6f1cde78",
-    "size": 114994741
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.5.3/P2ROUD-0.5.3-setup.exe",
+    "sha256": "e7a4d7ecd123346a8aa6649807dbbd95aeec2dca66a51a7be56502c573d4a5dd",
+    "size": 114992506
    }
   },
   "T1mapp": {
