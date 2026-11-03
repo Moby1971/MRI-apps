@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-03T08:01:30Z",
+ "published": "2026-11-03T08:03:31Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.6",
@@ -140,18 +140,18 @@
    }
   },
   "MAPapp": {
-   "version": "0.2.2",
-   "note": "ORACLE: ellipse and profile plots, TE shown; clearer phase-cycle warning.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/mapapp-v0.2.2",
+   "version": "0.2.3",
+   "note": "Windows: an update leaves the desktop icon where you put it.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/mapapp-v0.2.3",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.2.2/MAPapp-0.2.2-macOS-arm64.dmg",
-    "sha256": "7b716d9a271e9accd1f7722dc155cafadb707dfd16417a6f26fcf1ff7088c5a4",
-    "size": 170407936
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.2.3/MAPapp-0.2.3-macOS-arm64.dmg",
+    "sha256": "533c7d3c73c295e6e194b45e53be5eb8565d24048d267cffa8e880a4169b9ba7",
+    "size": 170395136
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.2.2/MAPapp-0.2.2-setup.exe",
-    "sha256": "123843622987780e17fee9175c347d119728e6b2e4f52491bf147a610bfca0c2",
-    "size": 125880255
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.2.3/MAPapp-0.2.3-setup.exe",
+    "sha256": "4927b2600529205a9cbb98d6ebec161888574c6c1d0272d1732f3ef667930271",
+    "size": 125869844
    }
   }
  }
