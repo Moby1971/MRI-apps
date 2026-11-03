@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-03T08:14:03Z",
+ "published": "2026-11-03T10:50:59Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.7",
@@ -125,18 +125,18 @@
    }
   },
   "DATAapp": {
-   "version": "0.2.6",
-   "note": "Windows: an update leaves the desktop icon where you put it.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.2.6",
+   "version": "0.2.7",
+   "note": "The tick boxes show in the dark theme on Windows; Where and Open with keep their buttons in view; the Images tab of a raw scan no longer stays empty now and then.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.2.7",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.2.6/DATAapp-0.2.6-macOS-arm64.dmg",
-    "sha256": "d0ca2a667ffc31cc37ff811c27e68c3d5cbdaa5b30d7054602e665496c83b949",
-    "size": 85563392
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.2.7/DATAapp-0.2.7-macOS-arm64.dmg",
+    "sha256": "643e8d1abcdcec02ae339c31420b1cc04e0e6e82e9c1f6b95a7b181bff0c277f",
+    "size": 85568512
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.2.6/DATAapp-0.2.6-setup.exe",
-    "sha256": "3d38ea4a37813d2eba891d511882f4162d0ebf45e42f18e4afbf3f2a3d652c9f",
-    "size": 79267452
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.2.7/DATAapp-0.2.7-setup.exe",
+    "sha256": "f76ca83ebb5e76ccc091237e9f44007fadb7d160d1a85b2dd512b255a7de2599",
+    "size": 79280007
    }
   },
   "MAPapp": {
