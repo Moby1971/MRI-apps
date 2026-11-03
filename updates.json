@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-03T08:03:31Z",
+ "published": "2026-11-03T08:05:23Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.6",
@@ -65,18 +65,18 @@
    }
   },
   "ADCmapp": {
-   "version": "0.4.3",
-   "note": "Pressing a main button again with nothing changed keeps the result and says so. Registration gives the same result on every computer.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/adcmapp-v0.4.3",
+   "version": "0.4.4",
+   "note": "Windows: an update leaves the desktop icon where you put it.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/adcmapp-v0.4.4",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.4.3/ADCmapp-0.4.3-macOS-arm64.dmg",
-    "sha256": "8685294ac3b709149ccb0c12b4bde9ae806c46a3c5863e47606da0720e588f73",
-    "size": 104410624
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.4.4/ADCmapp-0.4.4-macOS-arm64.dmg",
+    "sha256": "a68bbbb9430fb5857fe9ad51492fa0aea28b71ed4ac118c1543d4d3b0254b6e2",
+    "size": 104421888
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.4.3/ADCmapp-0.4.3-setup.exe",
-    "sha256": "eefb6b3cab762e1fa0ba01b860b2052e640b77731d9aa90f2dedd111270910af",
-    "size": 79200725
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.4.4/ADCmapp-0.4.4-setup.exe",
+    "sha256": "1e6a9c1ef8fb2f1413347015e301c1425db4f419c3a8bcd1d8aa96534f646a74",
+    "size": 79202266
    }
   },
   "DSCmapp": {
