@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-03T10:50:59Z",
+ "published": "2026-11-03T11:56:18Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.7",
@@ -125,18 +125,18 @@
    }
   },
   "DATAapp": {
-   "version": "0.2.7",
-   "note": "The tick boxes show in the dark theme on Windows; Where and Open with keep their buttons in view; the Images tab of a raw scan no longer stays empty now and then.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.2.7",
+   "version": "0.2.8",
+   "note": "On the scanner, its own folders come first: an exam that is also in the backup shows once.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.2.8",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.2.7/DATAapp-0.2.7-macOS-arm64.dmg",
-    "sha256": "643e8d1abcdcec02ae339c31420b1cc04e0e6e82e9c1f6b95a7b181bff0c277f",
-    "size": 85568512
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.2.8/DATAapp-0.2.8-macOS-arm64.dmg",
+    "sha256": "bb3f5ae100e9a54a6a8c09a25adce59f2e33260c18571fef080b88dbab42b6b9",
+    "size": 85587968
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.2.7/DATAapp-0.2.7-setup.exe",
-    "sha256": "f76ca83ebb5e76ccc091237e9f44007fadb7d160d1a85b2dd512b255a7de2599",
-    "size": 79280007
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.2.8/DATAapp-0.2.8-setup.exe",
+    "sha256": "3a814795c32c0cd06d9bb2655c73a69b035572e13ad9ff7e7ca8f154b4b66104",
+    "size": 79283967
    }
   },
   "MAPapp": {
