@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-04T13:07:00Z",
+ "published": "2026-11-04T13:59:41Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.8",
@@ -140,18 +140,18 @@
    }
   },
   "MAPapp": {
-   "version": "0.2.4",
-   "note": "A scan opened from DATAapp, or the app started with a scan, goes to the window that is already open, which comes to the front and loads it (after the step under way). ORACLE uses a measured flip-angle map (AFI scan) of the same exam when there is one it can trust.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/mapapp-v0.2.4",
+   "version": "0.2.5",
+   "note": "The model-based fits (T₂, T₂* and inversion-recovery T₁) now give an R² map, in the window and in the exports.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/mapapp-v0.2.5",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.2.4/MAPapp-0.2.4-macOS-arm64.dmg",
-    "sha256": "82adef5cf8aa5a952637a88784662ad87459a92ad6ca6721b1d594d0c60f5d07",
-    "size": 170605568
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.2.5/MAPapp-0.2.5-macOS-arm64.dmg",
+    "sha256": "ade7206ab774cfc91ad93a0a8aee3a166c62c1ec05f1aeda5116d08677920e0a",
+    "size": 170617856
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.2.4/MAPapp-0.2.4-setup.exe",
-    "sha256": "03f145cc2ce4464a0f8829be27af18147722e0b7a786710c0832f2a1a1ff8a41",
-    "size": 125954927
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.2.5/MAPapp-0.2.5-setup.exe",
+    "sha256": "bef2205a9f1de4cb5fe5d3a041fc6719f73b9331517d4ecd0a6361055f02d855",
+    "size": 125985868
    }
   }
  }
