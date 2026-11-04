@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-04T08:52:32Z",
+ "published": "2026-11-04T08:55:35Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.7",
@@ -65,18 +65,18 @@
    }
   },
   "ADCmapp": {
-   "version": "0.4.4",
-   "note": "Windows: an update leaves the desktop icon where you put it.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/adcmapp-v0.4.4",
+   "version": "0.4.5",
+   "note": "A scan opened from DATAapp, or the app started with a scan, goes to the window that is already open, which comes to the front and loads it (after the step under way).",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/adcmapp-v0.4.5",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.4.4/ADCmapp-0.4.4-macOS-arm64.dmg",
-    "sha256": "a68bbbb9430fb5857fe9ad51492fa0aea28b71ed4ac118c1543d4d3b0254b6e2",
-    "size": 104421888
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.4.5/ADCmapp-0.4.5-macOS-arm64.dmg",
+    "sha256": "248ae755713ce0d78288fae35987bbc89449a9a7e25fd7365a2e606b1d5636f1",
+    "size": 104475648
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.4.4/ADCmapp-0.4.4-setup.exe",
-    "sha256": "1e6a9c1ef8fb2f1413347015e301c1425db4f419c3a8bcd1d8aa96534f646a74",
-    "size": 79202266
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.4.5/ADCmapp-0.4.5-setup.exe",
+    "sha256": "79b3bca0ceb9429f7628213566b1cac8fcfc7658de53b598914c9e1edcb45444",
+    "size": 79229471
    }
   },
   "DSCmapp": {
