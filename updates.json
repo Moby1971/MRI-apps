@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-04T08:49:15Z",
+ "published": "2026-11-04T08:52:32Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.7",
@@ -140,18 +140,18 @@
    }
   },
   "MAPapp": {
-   "version": "0.2.3",
-   "note": "Windows: an update leaves the desktop icon where you put it.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/mapapp-v0.2.3",
+   "version": "0.2.4",
+   "note": "A scan opened from DATAapp, or the app started with a scan, goes to the window that is already open, which comes to the front and loads it (after the step under way). ORACLE uses a measured flip-angle map (AFI scan) of the same exam when there is one it can trust.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/mapapp-v0.2.4",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.2.3/MAPapp-0.2.3-macOS-arm64.dmg",
-    "sha256": "533c7d3c73c295e6e194b45e53be5eb8565d24048d267cffa8e880a4169b9ba7",
-    "size": 170395136
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.2.4/MAPapp-0.2.4-macOS-arm64.dmg",
+    "sha256": "82adef5cf8aa5a952637a88784662ad87459a92ad6ca6721b1d594d0c60f5d07",
+    "size": 170605568
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.2.3/MAPapp-0.2.3-setup.exe",
-    "sha256": "4927b2600529205a9cbb98d6ebec161888574c6c1d0272d1732f3ef667930271",
-    "size": 125869844
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.2.4/MAPapp-0.2.4-setup.exe",
+    "sha256": "03f145cc2ce4464a0f8829be27af18147722e0b7a786710c0832f2a1a1ff8a41",
+    "size": 125954927
    }
   }
  }
