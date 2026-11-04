@@ -1,4 +1,4 @@
-<p align="center"><img src="https://moby1971.github.io/MRI-apps/images/banner.png?v=4" alt="MRI apps: Retrospective, P2ROUD, MAPapp, ADCmapp, DSCmapp, SHIMapp and DATAapp" width="100%"></p>
+<p align="center"><img src="https://moby1971.github.io/MRI-apps/images/banner.png?v=5" alt="MRI apps: Retrospective, P2ROUD, MAPapp, ADCmapp, DSCmapp, SHIMapp and DATAapp" width="100%"></p>
 
 Stand-alone applications with a graphical user interface for the reconstruction and analysis of
 preclinical MRI data, in particular data acquired with MR Solutions systems.
