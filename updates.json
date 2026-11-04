@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-03T16:34:48Z",
+ "published": "2026-11-04T08:17:21Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.7",
@@ -125,18 +125,18 @@
    }
   },
   "DATAapp": {
-   "version": "0.2.8",
-   "note": "On the scanner, its own folders come first: an exam that is also in the backup shows once.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.2.8",
+   "version": "0.2.9",
+   "note": "The window stays responsive while copying to the backup. Open with hands the scan to an app that is already open, instead of starting a second one. The exam you choose is brought up to date first. Apps are offered only for the files they can open (no MAPapp for DICOM series). The apps' exported GIFs are found again.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.2.9",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.2.8/DATAapp-0.2.8-macOS-arm64.dmg",
-    "sha256": "bb3f5ae100e9a54a6a8c09a25adce59f2e33260c18571fef080b88dbab42b6b9",
-    "size": 85587968
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.2.9/DATAapp-0.2.9-macOS-arm64.dmg",
+    "sha256": "cfd3f8b015287a748210ab0347fea690bd7a519fa308840c9f40ff512e4972d5",
+    "size": 85670400
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.2.8/DATAapp-0.2.8-setup.exe",
-    "sha256": "3a814795c32c0cd06d9bb2655c73a69b035572e13ad9ff7e7ca8f154b4b66104",
-    "size": 79283967
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.2.9/DATAapp-0.2.9-setup.exe",
+    "sha256": "a03ea4e9ff7ba17202502a81a4da2dd3e7410a45eb55ebae88e6bc5c0b6aacf9",
+    "size": 79317210
    }
   },
   "MAPapp": {
