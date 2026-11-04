@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-04T13:59:41Z",
+ "published": "2026-11-04T19:37:29Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.8",
@@ -65,18 +65,18 @@
    }
   },
   "ADCmapp": {
-   "version": "0.4.5",
-   "note": "A scan opened from DATAapp, or the app started with a scan, goes to the window that is already open, which comes to the front and loads it (after the step under way).",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/adcmapp-v0.4.5",
+   "version": "0.4.6",
+   "note": "Diffusion DICOM series whose b-values differ from the scan's protocol are read with the protocol's values, with a warning.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/adcmapp-v0.4.6",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.4.5/ADCmapp-0.4.5-macOS-arm64.dmg",
-    "sha256": "248ae755713ce0d78288fae35987bbc89449a9a7e25fd7365a2e606b1d5636f1",
-    "size": 104475648
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.4.6/ADCmapp-0.4.6-macOS-arm64.dmg",
+    "sha256": "4480743d00eb5daa2f590ec0df57aa7d74fa886442e7363e91a2b8922c24d702",
+    "size": 104500224
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.4.5/ADCmapp-0.4.5-setup.exe",
-    "sha256": "79b3bca0ceb9429f7628213566b1cac8fcfc7658de53b598914c9e1edcb45444",
-    "size": 79229471
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.4.6/ADCmapp-0.4.6-setup.exe",
+    "sha256": "39040dabf9db29f44fedf6f19247aefcaf425b2017c482ef84bcf1b457c941d5",
+    "size": 79244417
    }
   },
   "DSCmapp": {
