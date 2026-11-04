@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-04T09:01:31Z",
+ "published": "2026-11-04T09:09:32Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.7",
@@ -18,18 +18,18 @@
    }
   },
   "P2ROUD": {
-   "version": "0.5.4",
-   "note": "Windows: an update leaves the desktop icon where you put it.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/p2roud-v0.5.4",
+   "version": "0.5.5",
+   "note": "A scan opened from DATAapp, or the app started with a scan, goes to the window that is already open, which comes to the front and loads it (after the step under way).",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/p2roud-v0.5.5",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.5.4/P2ROUD-0.5.4-macOS-arm64.dmg",
-    "sha256": "47cf1a6b92fba11f846d58e53a7877a4bb7eaa9c5f4d1a1cc5b46d29c80d205b",
-    "size": 137910272
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.5.5/P2ROUD-0.5.5-macOS-arm64.dmg",
+    "sha256": "47a9156df277ffbaa7c66a513ba1380a571806ae6454e42a05d581086ed9210d",
+    "size": 137985536
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.5.4/P2ROUD-0.5.4-setup.exe",
-    "sha256": "eed5ddd6c6e56d40f8464e26c6898e230b399bd8119c0d1003608219cc60086d",
-    "size": 115010676
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.5.5/P2ROUD-0.5.5-setup.exe",
+    "sha256": "f9775467584d996fd25cf4e803d8eddff7cbba6baa9c17776a253d50fb6cd041",
+    "size": 115019661
    }
   },
   "T1mapp": {
