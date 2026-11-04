@@ -1,20 +1,20 @@
 {
  "format": 1,
- "published": "2026-11-04T09:15:25Z",
+ "published": "2026-11-04T09:27:25Z",
  "apps": {
   "Retrospective": {
-   "version": "0.5.7",
-   "note": "Windows: an update leaves the desktop icon where you put it.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.5.7",
+   "version": "0.5.8",
+   "note": "A scan opened from DATAapp, or the app started with a scan, goes to the window that is already open, which comes to the front and loads it (after the step under way).",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.5.8",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.5.7/Retrospective-0.5.7-macOS-arm64.dmg",
-    "sha256": "67bd42b26b8218dc115ab487df80266812e80a1805b16a580219131ddb90ba0f",
-    "size": 451172352
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.5.8/Retrospective-0.5.8-macOS-arm64.dmg",
+    "sha256": "08253ad39ad0e5250fac100b5a0db1eb5058ce70cda50f96ebdbfd53e9c2b893",
+    "size": 451228672
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.5.7/Retrospective-0.5.7-setup.exe",
-    "sha256": "eb478868c98518e1d8ce3a3a0e2e9e343e936092b2cc7b9aab84888d41993a32",
-    "size": 375371582
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.5.8/Retrospective-0.5.8-setup.exe",
+    "sha256": "035918a7e71119230e8da371dbf755ed491a90b1a9efe78e58e42a690485a099",
+    "size": 375375827
    }
   },
   "P2ROUD": {
