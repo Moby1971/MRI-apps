@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-04T08:55:35Z",
+ "published": "2026-11-04T09:01:31Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.7",
@@ -80,18 +80,18 @@
    }
   },
   "DSCmapp": {
-   "version": "0.3.2",
-   "note": "Windows: an update leaves the desktop icon where you put it.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dscmapp-v0.3.2",
+   "version": "0.3.3",
+   "note": "A scan opened from DATAapp, or the app started with a scan, goes to the window that is already open, which comes to the front and loads it (after the step under way).",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dscmapp-v0.3.3",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-v0.3.2/DSCmapp-0.3.2-macOS-arm64.dmg",
-    "sha256": "519e7873ab7b05b9a2a71b8a74e04da249ef03a76636cb2a412402439924dc37",
-    "size": 102656000
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-v0.3.3/DSCmapp-0.3.3-macOS-arm64.dmg",
+    "sha256": "7333ff8405daae4c6fc6404aa49a1725bcd11e8d32f07d9d18d2bbfc85ba808c",
+    "size": 102706176
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-v0.3.2/DSCmapp-0.3.2-setup.exe",
-    "sha256": "8a472d769972f121b54e52b2dbb3e939a5acfbf2fe602cb3bd6fa1af5ef3f831",
-    "size": 78676071
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-v0.3.3/DSCmapp-0.3.3-setup.exe",
+    "sha256": "f4e5f9b34edb040627ad116b518ad8dae9f776059953b7d27da6014a76877066",
+    "size": 78699880
    }
   },
   "SHIMapp": {
