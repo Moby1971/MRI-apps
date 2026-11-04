@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-04T08:17:21Z",
+ "published": "2026-11-04T08:49:15Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.7",
@@ -95,18 +95,18 @@
    }
   },
   "SHIMapp": {
-   "version": "0.5.6",
-   "note": "The shim region (box, ellipse, brain) can be resized by pulling its sides and turned in the view shown.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/shimapp-v0.5.6",
+   "version": "0.5.7",
+   "note": "A scan opened from DATAapp, or the app started with a scan, goes to the window that is already open, which comes to the front and loads it (after the step under way).",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/shimapp-v0.5.7",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.5.6/SHIMapp-0.5.6-macOS-arm64.dmg",
-    "sha256": "340dfe861f49077c9175c05efdd70d795361fedab52274ffd90303ee9e87f4d9",
-    "size": 131319808
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.5.7/SHIMapp-0.5.7-macOS-arm64.dmg",
+    "sha256": "49d2b68d22ff061dc9fcb94ed5ec7deaa31e7fcc8fcabd65c2dcb48fe664910a",
+    "size": 131346944
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.5.6/SHIMapp-0.5.6-setup.exe",
-    "sha256": "28a4dca82136c9036b0cb001c04e47cecf3104d0a46cab489189393bbf548f96",
-    "size": 107632634
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.5.7/SHIMapp-0.5.7-setup.exe",
+    "sha256": "ae0b88c016ce2173b47b82bfad81ebd308885b032d50fa86d5251a25f6dd43ca",
+    "size": 107667900
    }
   },
   "TRAJapp": {
