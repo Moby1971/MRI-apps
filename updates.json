@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-04T11:53:08Z",
+ "published": "2026-11-04T13:07:00Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.8",
@@ -125,18 +125,18 @@
    }
   },
   "DATAapp": {
-   "version": "0.3.0",
-   "note": "The exam chosen last is read first, and the message box says when it is up to date; exported GIF and PNG folders copied into an exam show up at once; images are shown in their own window, so a single outlier no longer sets the scale.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.3.0",
+   "version": "0.3.1",
+   "note": "The window stays responsive while you search, filter or clear: the results stay until the new ones are in, and a newer search replaces the one under way. Choosing a picture or record scan is quicker, and the All folders lamp shows when scans are classified again.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.3.1",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.3.0/DATAapp-0.3.0-macOS-arm64.dmg",
-    "sha256": "f957c7803d3ea65a7b14d66cf551c65a08599b8c9c4eff5a5ef479b2b59e20fc",
-    "size": 85683712
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.3.1/DATAapp-0.3.1-macOS-arm64.dmg",
+    "sha256": "5c28d07d8d8edd8a05f3f3df7ce7b52a40199807877ef856b61afdb3dff8fd02",
+    "size": 85699072
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.3.0/DATAapp-0.3.0-setup.exe",
-    "sha256": "4564d794916831af0019f9da726ae7d478021622afe548b19d83cc4e117afc83",
-    "size": 79322941
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.3.1/DATAapp-0.3.1-setup.exe",
+    "sha256": "6e7519c676ba4d1408238ddaad02d5bc84f0e0a712da40a0fb1ce1746e04092e",
+    "size": 79328732
    }
   },
   "MAPapp": {
