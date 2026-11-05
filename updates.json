@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-05T19:24:34Z",
+ "published": "2026-11-05T20:59:20Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.9",
@@ -18,18 +18,18 @@
    }
   },
   "P2ROUD": {
-   "version": "0.5.6",
-   "note": "Diffusion scans get b-values and directions from all the gradients the sequence plays, and the NIfTI export adds a b-matrix table.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/p2roud-v0.5.6",
+   "version": "0.5.7",
+   "note": "Images and exports match the scanner's orientation and position; ZTE volumes are no longer mirrored, and Look-Locker T1 series load again.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/p2roud-v0.5.7",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.5.6/P2ROUD-0.5.6-macOS-arm64.dmg",
-    "sha256": "0fccc12f5f12c38d990e9193aa9b08de1e9c4ba73ef84ce3932de7f3cb3427ff",
-    "size": 138230784
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.5.7/P2ROUD-0.5.7-macOS-arm64.dmg",
+    "sha256": "a498458c64341af8992e4661fabfffeb41dfe0b486a0c73ea369dae9967668b9",
+    "size": 138208768
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.5.6/P2ROUD-0.5.6-setup.exe",
-    "sha256": "92e17e4ccddd4c2b6970daa49e7672548650b18cff0c012de0b119c78274636d",
-    "size": 115143793
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.5.7/P2ROUD-0.5.7-setup.exe",
+    "sha256": "cdd39d7f693668eaba5bb2fa85d1372a20e0db215fd8ddb9a727f9489661528c",
+    "size": 115141948
    }
   },
   "T1mapp": {
