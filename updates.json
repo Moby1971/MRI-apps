@@ -1,20 +1,20 @@
 {
  "format": 1,
- "published": "2026-11-05T19:17:47Z",
+ "published": "2026-11-05T19:20:48Z",
  "apps": {
   "Retrospective": {
-   "version": "0.5.8",
-   "note": "A scan opened from DATAapp, or the app started with a scan, goes to the window that is already open, which comes to the front and loads it (after the step under way).",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.5.8",
+   "version": "0.5.9",
+   "note": "Cines and their exports match the scanner's orientation and position.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.5.9",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.5.8/Retrospective-0.5.8-macOS-arm64.dmg",
-    "sha256": "08253ad39ad0e5250fac100b5a0db1eb5058ce70cda50f96ebdbfd53e9c2b893",
-    "size": 451228672
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.5.9/Retrospective-0.5.9-macOS-arm64.dmg",
+    "sha256": "972ad1adddbd8e897524fd0adeebcef0bbbe00cdeb750c2a6b431ec6f28f61ca",
+    "size": 451279360
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.5.8/Retrospective-0.5.8-setup.exe",
-    "sha256": "035918a7e71119230e8da371dbf755ed491a90b1a9efe78e58e42a690485a099",
-    "size": 375375827
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.5.9/Retrospective-0.5.9-setup.exe",
+    "sha256": "099b385995d84418933963fe3ea64e3844cee8bf246c47b29858af9a78488514",
+    "size": 375410683
    }
   },
   "P2ROUD": {
