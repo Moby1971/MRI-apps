@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-06T02:20:13Z",
+ "published": "2026-11-06T06:14:51Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.9",
@@ -141,18 +141,18 @@
    }
   },
   "MAPapp": {
-   "version": "0.2.6",
-   "note": "New diffusion method (ADC, IVIM, DTI exports); fits can be limited to a region, images viewed in three orientations, and images and exports match the scanner's.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/mapapp-v0.2.6",
+   "version": "0.2.7",
+   "note": "ORACLE: the legend of a clicked pixel now matches its map values. The brain finder no longer finds the brain upside down in whole-head scans. EPI scans without a navigator warn when the image may be shifted by half the field of view.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/mapapp-v0.2.7",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.2.6/MAPapp-0.2.6-macOS-arm64.dmg",
-    "sha256": "45c14ec2b75199201b09787f3db9be5028836bccd2c60c2034e08a981bd24806",
-    "size": 174991872
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.2.7/MAPapp-0.2.7-macOS-arm64.dmg",
+    "sha256": "2147252a8356405738ea2a6adc771cb24d2db046d99823bf8a47f62cd32f4fe1",
+    "size": 175000064
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.2.6/MAPapp-0.2.6-setup.exe",
-    "sha256": "1d442e02c7b130497af8afe3ee8c4f2c525187ad453b64baf4328574b3bd87e0",
-    "size": 128931193
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.2.7/MAPapp-0.2.7-setup.exe",
+    "sha256": "f4ce78004a3228bace37f3a27e0e66e7ff08cd5c4d8e18a567a567d4dcb61920",
+    "size": 128942432
    }
   }
  }
