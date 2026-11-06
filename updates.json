@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-06T06:19:56Z",
+ "published": "2026-11-06T07:42:38Z",
  "apps": {
   "Retrospective": {
    "version": "0.6.0",
@@ -126,18 +126,18 @@
    }
   },
   "DATAapp": {
-   "version": "0.3.2",
-   "note": "NIfTI previews follow the file's orientation, an exam's project can be corrected, and diffusion scans open in MAPapp.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.3.2",
+   "version": "0.3.3",
+   "note": "Copy exam first starts promptly; the scans are copied before their images, and a scan still being written follows as soon as it is finished.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.3.3",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.3.2/DATAapp-0.3.2-macOS-arm64.dmg",
-    "sha256": "feaa40e8da26a7072b1e58d01d7a961c51563e46f1d676d0a31eb03e75c85217",
-    "size": 85739520
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.3.3/DATAapp-0.3.3-macOS-arm64.dmg",
+    "sha256": "767d1fc1d8587b70127056f97af6a4ef3512f18a3e2f10a115e901f7629f2e6d",
+    "size": 85753344
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.3.2/DATAapp-0.3.2-setup.exe",
-    "sha256": "c0257e761e999a9ccffe132b6f8c834e423f79daf5ad8cf78e08c31f7864b3d8",
-    "size": 79359247
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.3.3/DATAapp-0.3.3-setup.exe",
+    "sha256": "f874e39ed94ca0b395f57a13b89b50a717e65388e6858c5ecd062feebade5f48",
+    "size": 79367012
    }
   },
   "MAPapp": {
