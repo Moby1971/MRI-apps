@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-06T07:42:38Z",
+ "published": "2026-11-06T13:12:30Z",
  "apps": {
   "Retrospective": {
    "version": "0.6.0",
@@ -141,18 +141,18 @@
    }
   },
   "MAPapp": {
-   "version": "0.2.7",
-   "note": "ORACLE: the legend of a clicked pixel now matches its map values. The brain finder no longer finds the brain upside down in whole-head scans. EPI scans without a navigator warn when the image may be shifted by half the field of view.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/mapapp-v0.2.7",
+   "version": "0.3.3",
+   "note": "Flip angle (B₁) maps from AFI scans now correct VFA and ORACLE T1 and are shown and exported; ORACLE gets its own Method tab.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/mapapp-v0.3.3",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.2.7/MAPapp-0.2.7-macOS-arm64.dmg",
-    "sha256": "2147252a8356405738ea2a6adc771cb24d2db046d99823bf8a47f62cd32f4fe1",
-    "size": 175000064
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.3.3/MAPapp-0.3.3-macOS-arm64.dmg",
+    "sha256": "8281ad1667adbbd2b5f5ba63cdb0f09ba849c946dc6b7507daaa8fdbc78ce236",
+    "size": 175249920
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.2.7/MAPapp-0.2.7-setup.exe",
-    "sha256": "f4ce78004a3228bace37f3a27e0e66e7ff08cd5c4d8e18a567a567d4dcb61920",
-    "size": 128942432
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.3.3/MAPapp-0.3.3-setup.exe",
+    "sha256": "cae91d49087a302640eb20c89a03b8ff7883bbdbf2a6a933eecec419780c8401",
+    "size": 129111066
    }
   }
  }
