@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-06T02:18:58Z",
+ "published": "2026-11-06T02:20:13Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.9",
@@ -68,6 +68,7 @@
    "version": "0.4.7",
    "note": "Maps and exports match the scanner's images, without the pixel shift and jumps on some EPI slices.",
    "release": "https://github.com/Moby1971/MRI-apps/releases/tag/adcmapp-v0.4.7",
+   "successor": "MAPapp",
    "macos": {
     "url": "https://github.com/Moby1971/MRI-apps/releases/download/adcmapp-v0.4.7/ADCmapp-0.4.7-macOS-arm64.dmg",
     "sha256": "87fe61e78db5ef0365ac4e68edf1c902eed6e6ecafaba58a62a66403ff048518",
