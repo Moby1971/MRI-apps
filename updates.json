@@ -1,20 +1,20 @@
 {
  "format": 1,
- "published": "2026-11-06T06:14:51Z",
+ "published": "2026-11-06T06:18:39Z",
  "apps": {
   "Retrospective": {
-   "version": "0.5.9",
-   "note": "Cines and their exports match the scanner's orientation and position.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.5.9",
+   "version": "0.6.0",
+   "note": "Off-center 3D UTE scans are placed correctly.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.6.0",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.5.9/Retrospective-0.5.9-macOS-arm64.dmg",
-    "sha256": "972ad1adddbd8e897524fd0adeebcef0bbbe00cdeb750c2a6b431ec6f28f61ca",
-    "size": 451279360
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.0/Retrospective-0.6.0-macOS-arm64.dmg",
+    "sha256": "1fb7f7324f73f9d7168febaf371650eb0c497452c44bf3621371ce39a8070478",
+    "size": 451269120
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.5.9/Retrospective-0.5.9-setup.exe",
-    "sha256": "099b385995d84418933963fe3ea64e3844cee8bf246c47b29858af9a78488514",
-    "size": 375410683
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.0/Retrospective-0.6.0-setup.exe",
+    "sha256": "27adc0e8987baf19d13e6a5dbe717b6fddfdb4fa8a48946820d77699b44e8d90",
+    "size": 375357744
    }
   },
   "P2ROUD": {
