@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-06T13:12:30Z",
+ "published": "2026-11-06T16:34:30Z",
  "apps": {
   "Retrospective": {
    "version": "0.6.0",
@@ -141,18 +141,18 @@
    }
   },
   "MAPapp": {
-   "version": "0.3.3",
-   "note": "Flip angle (B₁) maps from AFI scans now correct VFA and ORACLE T1 and are shown and exported; ORACLE gets its own Method tab.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/mapapp-v0.3.3",
+   "version": "0.3.4",
+   "note": "Load and Reco buttons; CS reco, water & fat, QSM and model-based options move to their own tabs; changing a reconstruction or fit setting now resets the steps that depend on it.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/mapapp-v0.3.4",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.3.3/MAPapp-0.3.3-macOS-arm64.dmg",
-    "sha256": "8281ad1667adbbd2b5f5ba63cdb0f09ba849c946dc6b7507daaa8fdbc78ce236",
-    "size": 175249920
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.3.4/MAPapp-0.3.4-macOS-arm64.dmg",
+    "sha256": "6907037a9c043e46514f2b6a28c8edde8028c3dbaf0b3c067def3da5a9645095",
+    "size": 175277568
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.3.3/MAPapp-0.3.3-setup.exe",
-    "sha256": "cae91d49087a302640eb20c89a03b8ff7883bbdbf2a6a933eecec419780c8401",
-    "size": 129111066
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.3.4/MAPapp-0.3.4-setup.exe",
+    "sha256": "da6227582b9e4d7984c07797bcc4d1db499c0392be9fcc75d805ad133af48cac",
+    "size": 129142185
    }
   }
  }
