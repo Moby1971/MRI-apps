@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-06T02:16:55Z",
+ "published": "2026-11-06T02:18:58Z",
  "apps": {
   "Retrospective": {
    "version": "0.5.9",
@@ -125,18 +125,18 @@
    }
   },
   "DATAapp": {
-   "version": "0.3.1",
-   "note": "The window stays responsive while you search, filter or clear: the results stay until the new ones are in, and a newer search replaces the one under way. Choosing a picture or record scan is quicker, and the All folders lamp shows when scans are classified again.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.3.1",
+   "version": "0.3.2",
+   "note": "NIfTI previews follow the file's orientation, an exam's project can be corrected, and diffusion scans open in MAPapp.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.3.2",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.3.1/DATAapp-0.3.1-macOS-arm64.dmg",
-    "sha256": "5c28d07d8d8edd8a05f3f3df7ce7b52a40199807877ef856b61afdb3dff8fd02",
-    "size": 85699072
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.3.2/DATAapp-0.3.2-macOS-arm64.dmg",
+    "sha256": "feaa40e8da26a7072b1e58d01d7a961c51563e46f1d676d0a31eb03e75c85217",
+    "size": 85739520
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.3.1/DATAapp-0.3.1-setup.exe",
-    "sha256": "6e7519c676ba4d1408238ddaad02d5bc84f0e0a712da40a0fb1ce1746e04092e",
-    "size": 79328732
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.3.2/DATAapp-0.3.2-setup.exe",
+    "sha256": "c0257e761e999a9ccffe132b6f8c834e423f79daf5ad8cf78e08c31f7864b3d8",
+    "size": 79359247
    }
   },
   "MAPapp": {
