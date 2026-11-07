@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-06T16:34:30Z",
+ "published": "2026-11-07T09:36:15Z",
  "apps": {
   "Retrospective": {
    "version": "0.6.0",
@@ -18,18 +18,18 @@
    }
   },
   "P2ROUD": {
-   "version": "0.5.8",
-   "note": "EPI scans without a navigator warn when the image may be shifted by half the field of view.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/p2roud-v0.5.8",
+   "version": "0.5.9",
+   "note": "Golden-angle and center-out radial scans and the lab 3D UTE are reconstructed; 3D UTE images match the scanner's orientation.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/p2roud-v0.5.9",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.5.8/P2ROUD-0.5.8-macOS-arm64.dmg",
-    "sha256": "f9466773cdee338db6476f54dab2ff9e2d14fe62cd375fa3507799b9a5e6f58f",
-    "size": 138227200
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.5.9/P2ROUD-0.5.9-macOS-arm64.dmg",
+    "sha256": "7fa8caa71cd9db24e01f524dfe864804fca26c58e40f2ba629f5772403f9877a",
+    "size": 138494976
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.5.8/P2ROUD-0.5.8-setup.exe",
-    "sha256": "4915e0aedd9293f93eacbefc53748c9ced0411831dbdc8c4ae726c77160ab0fb",
-    "size": 115126778
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.5.9/P2ROUD-0.5.9-setup.exe",
+    "sha256": "447e557c927ec2eef7326aa7333036528fe2acc71cc0b29ad583ca09c25278ed",
+    "size": 115291758
    }
   },
   "T1mapp": {
