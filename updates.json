@@ -1,20 +1,20 @@
 {
  "format": 1,
- "published": "2026-11-21T15:16:13Z",
+ "published": "2026-11-22T05:24:33Z",
  "apps": {
   "Retrospective": {
-   "version": "0.6.1",
-   "note": "Interleaved, golden-angle and center-out radial cines are reconstructed; 3D UTE images are correctly sized and oriented.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.6.1",
+   "version": "0.6.2",
+   "note": "An option to weight k-lines by their averages in the compressed-sensing reconstruction; the Reco tab is split into Reco 1 and Reco 2.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.6.2",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.1/Retrospective-0.6.1-macOS-arm64.dmg",
-    "sha256": "fe5afbeb390603f2a86b8aaff022ae428ee0ac1946ec814984e1d42a8a12bfeb",
-    "size": 451584512
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.2/Retrospective-0.6.2-macOS-arm64.dmg",
+    "sha256": "6d607130be754887d7ad636d45f6c4af3d2754988129117a2f6781cb632299d3",
+    "size": 451696128
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.1/Retrospective-0.6.1-setup.exe",
-    "sha256": "5a28a5f4b4b38a2068965002f362938a3b6e9df0c0c48693d48f7d1d12d470fb",
-    "size": 375562412
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.2/Retrospective-0.6.2-setup.exe",
+    "sha256": "6faa1f7336290381cbc1f2c79d45ebe2eeceb647b729e35ce755f3a0c545755b",
+    "size": 375660175
    }
   },
   "P2ROUD": {
