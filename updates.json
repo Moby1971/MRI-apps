@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-22T11:54:18Z",
+ "published": "2026-11-22T13:32:12Z",
  "apps": {
   "Retrospective": {
    "version": "0.6.2",
@@ -96,18 +96,18 @@
    }
   },
   "SHIMapp": {
-   "version": "0.6.0",
-   "note": "SHIMapp sets the center frequency in Preclinical Scan after Auto shim; Auto shim no longer needs Shim pressed first.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/shimapp-v0.6.0",
+   "version": "0.6.1",
+   "note": "Save shims sets the center frequency only from a scan made with the current shims.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/shimapp-v0.6.1",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.6.0/SHIMapp-0.6.0-macOS-arm64.dmg",
-    "sha256": "1f368114fb17f01d753ade0e581509e2cb5d9d41e8d7944d49d03b06b35d11c2",
-    "size": 131962368
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.6.1/SHIMapp-0.6.1-macOS-arm64.dmg",
+    "sha256": "7fc06c361d49bab94cc38ee93df800706b6ee7e2369c3e19514971f604efe9f3",
+    "size": 131971072
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.6.0/SHIMapp-0.6.0-setup.exe",
-    "sha256": "ef227b4c58b71068feb787aa9af32140953d4a192b8391058ee83afa897ac65d",
-    "size": 108026693
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.6.1/SHIMapp-0.6.1-setup.exe",
+    "sha256": "a265c30f8e1779480eafa8430eda9317acca58942fd8687904de9838b665c93b",
+    "size": 108038705
    }
   },
   "TRAJapp": {
