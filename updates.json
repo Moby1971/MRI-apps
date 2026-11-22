@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-22T05:26:25Z",
+ "published": "2026-11-22T07:21:22Z",
  "apps": {
   "Retrospective": {
    "version": "0.6.2",
@@ -96,18 +96,18 @@
    }
   },
   "SHIMapp": {
-   "version": "0.5.8",
-   "note": "Images and NIfTI exports match the scanner's orientation and position, and damaged calibration images are skipped.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/shimapp-v0.5.8",
+   "version": "0.5.9",
+   "note": "SHIMapp reports the center frequency to enter in Preclinical Scan instead of setting it; safer Auto shim and image replacement.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/shimapp-v0.5.9",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.5.8/SHIMapp-0.5.8-macOS-arm64.dmg",
-    "sha256": "6ace5964c2f9d6822220eb6ea0eb4cb16df6a964a9efbfb10edaf4c8e3a1c94c",
-    "size": 131391488
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.5.9/SHIMapp-0.5.9-macOS-arm64.dmg",
+    "sha256": "b157ec8c89e95486a8ae2a2415d24d5c139e988a6ca183100cd3b4243e392a11",
+    "size": 131789312
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.5.8/SHIMapp-0.5.8-setup.exe",
-    "sha256": "e2a9b89d358dfe8887a7bab9bc932d2d2daabb680c73f85ae50f3d477a7014e2",
-    "size": 107681243
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.5.9/SHIMapp-0.5.9-setup.exe",
+    "sha256": "06f7be7e097ea782bce13ef711178f5afe09ce08cf33bccd76a1c5d544306220",
+    "size": 107915683
    }
   },
   "TRAJapp": {
