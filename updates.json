@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-22T13:32:12Z",
+ "published": "2026-11-22T16:44:35Z",
  "apps": {
   "Retrospective": {
    "version": "0.6.2",
@@ -126,18 +126,18 @@
    }
   },
   "DATAapp": {
-   "version": "0.3.5",
-   "note": "A new Metadata tab with an exam's metadata from the other MRI apps; the entries can be edited.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.3.5",
+   "version": "0.3.6",
+   "note": "Labeled, lined-up Dashboard lamps and a new Export lamp.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.3.6",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.3.5/DATAapp-0.3.5-macOS-arm64.dmg",
-    "sha256": "bc456a7ce1a32e7da0cba08bd0079178e8d9dd0e985b69c84e88814d12eda495",
-    "size": 86365184
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.3.6/DATAapp-0.3.6-macOS-arm64.dmg",
+    "sha256": "ae46b5de9e9a97f8256f33acf0fef52d82476a114a87869bc91904371855b9df",
+    "size": 86378496
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.3.5/DATAapp-0.3.5-setup.exe",
-    "sha256": "9cc948ef9e88685f87953d669ace8588cef74c061efca69117d8ed3291ad0d67",
-    "size": 79728023
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.3.6/DATAapp-0.3.6-setup.exe",
+    "sha256": "b9d878c2d9eb94be56827a5b4ea20fd1fd46a509704fc9d92b0c073d70f092a4",
+    "size": 79736193
    }
   },
   "MAPapp": {
