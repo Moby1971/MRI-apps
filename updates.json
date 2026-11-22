@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-22T16:44:35Z",
+ "published": "2026-11-22T20:33:09Z",
  "apps": {
   "Retrospective": {
    "version": "0.6.2",
@@ -141,18 +141,18 @@
    }
   },
   "MAPapp": {
-   "version": "0.3.4",
-   "note": "Load and Reco buttons; CS reco, water & fat, QSM and model-based options move to their own tabs; changing a reconstruction or fit setting now resets the steps that depend on it.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/mapapp-v0.3.4",
+   "version": "0.3.5",
+   "note": "ORACLE uses least squares by default, checks the flip-angle map and summarizes each fit; colored messages.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/mapapp-v0.3.5",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.3.4/MAPapp-0.3.4-macOS-arm64.dmg",
-    "sha256": "6907037a9c043e46514f2b6a28c8edde8028c3dbaf0b3c067def3da5a9645095",
-    "size": 175277568
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.3.5/MAPapp-0.3.5-macOS-arm64.dmg",
+    "sha256": "a4dd227714b7c07a405c33e3bfececb80a17cbc7e5d69c65ddafd0e2ef1da897",
+    "size": 175337472
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.3.4/MAPapp-0.3.4-setup.exe",
-    "sha256": "da6227582b9e4d7984c07797bcc4d1db499c0392be9fcc75d805ad133af48cac",
-    "size": 129142185
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.3.5/MAPapp-0.3.5-setup.exe",
+    "sha256": "0f58072555e1044e079774eb693e10c91f0b798f5f804c383d9db2cf9fa4c59a",
+    "size": 129168998
    }
   }
  }
