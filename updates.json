@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-22T05:24:33Z",
+ "published": "2026-11-22T05:26:25Z",
  "apps": {
   "Retrospective": {
    "version": "0.6.2",
@@ -126,18 +126,18 @@
    }
   },
   "DATAapp": {
-   "version": "0.3.4",
-   "note": "The Backup tab is split into Backup and Backup log; network drives that need a sign-in connect by themselves with the user name and password the computer keeps; faster search and many fixes.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.3.4",
+   "version": "0.3.5",
+   "note": "A new Metadata tab with an exam's metadata from the other MRI apps; the entries can be edited.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.3.5",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.3.4/DATAapp-0.3.4-macOS-arm64.dmg",
-    "sha256": "3e2cd72014fd168f252d9a157c26924b91e306c92e4d630da5c2a9965e6fe812",
-    "size": 86066688
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.3.5/DATAapp-0.3.5-macOS-arm64.dmg",
+    "sha256": "bc456a7ce1a32e7da0cba08bd0079178e8d9dd0e985b69c84e88814d12eda495",
+    "size": 86365184
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.3.4/DATAapp-0.3.4-setup.exe",
-    "sha256": "b1a4c5ff5e71a9a46fc2f3b36e5b4eb0e8019a3626735471fe9be731afc89bf7",
-    "size": 79546934
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.3.5/DATAapp-0.3.5-setup.exe",
+    "sha256": "9cc948ef9e88685f87953d669ace8588cef74c061efca69117d8ed3291ad0d67",
+    "size": 79728023
    }
   },
   "MAPapp": {
