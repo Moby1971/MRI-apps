@@ -1,20 +1,20 @@
 {
  "format": 1,
- "published": "2026-11-23T10:38:54Z",
+ "published": "2026-11-23T11:14:27Z",
  "apps": {
   "Retrospective": {
-   "version": "0.6.3",
-   "note": "Colored messages: orange warnings, red errors, green results.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.6.3",
+   "version": "0.6.4",
+   "note": "The command line uses the GPU, as the window does.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.6.4",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.3/Retrospective-0.6.3-macOS-arm64.dmg",
-    "sha256": "26ff9fc27630dccf71da606c36b5383391b1f025caf5606dd4dbd351bba46299",
-    "size": 451695104
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.4/Retrospective-0.6.4-macOS-arm64.dmg",
+    "sha256": "6ab85eef063e3c900c4648ff3ff49dbc63471d3baacd81c68dcb5b76f607ba3b",
+    "size": 451712512
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.3/Retrospective-0.6.3-setup.exe",
-    "sha256": "d3e59668cbce129eb380a06fe1f5ce1c658297704e5b28618bf927776353b7bd",
-    "size": 375653064
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.4/Retrospective-0.6.4-setup.exe",
+    "sha256": "7d7607e1933a59aab631399546bd691919e2532fcb4741d0047ba832542f1ee1",
+    "size": 375648025
    }
   },
   "P2ROUD": {
