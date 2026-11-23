@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-23T09:29:11Z",
+ "published": "2026-11-23T09:31:02Z",
  "apps": {
   "Retrospective": {
    "version": "0.6.2",
@@ -81,18 +81,18 @@
    }
   },
   "DSCmapp": {
-   "version": "0.3.4",
-   "note": "Slices are numbered as on the scanner.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dscmapp-v0.3.4",
+   "version": "0.3.5",
+   "note": "Colored messages: orange warnings, red errors, green results.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dscmapp-v0.3.5",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-v0.3.4/DSCmapp-0.3.4-macOS-arm64.dmg",
-    "sha256": "fc35e202fa63429fdf8477de411118b9719d9c9a253ba2dac41e7d5fa7606bca",
-    "size": 102697984
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-v0.3.5/DSCmapp-0.3.5-macOS-arm64.dmg",
+    "sha256": "4fff1b2d5ecb85eed00ba0fcfe3c68033ca5f1f97f52e26a72078395e04d7d65",
+    "size": 102717952
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-v0.3.4/DSCmapp-0.3.4-setup.exe",
-    "sha256": "d2adbbc4353eda466845e253c195a125a382733182884d3d2a56e8d260f39979",
-    "size": 78704026
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dscmapp-v0.3.5/DSCmapp-0.3.5-setup.exe",
+    "sha256": "c18151bf6f36e6b87f538e57dc26d7e98f147bf0722041bf1a11f465960a127b",
+    "size": 78709309
    }
   },
   "SHIMapp": {
