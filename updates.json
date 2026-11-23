@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-22T20:33:09Z",
+ "published": "2026-11-23T04:08:07Z",
  "apps": {
   "Retrospective": {
    "version": "0.6.2",
@@ -141,18 +141,18 @@
    }
   },
   "MAPapp": {
-   "version": "0.3.5",
-   "note": "ORACLE uses least squares by default, checks the flip-angle map and summarizes each fit; colored messages.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/mapapp-v0.3.5",
+   "version": "0.3.6",
+   "note": "New ORACLE fit options: full model, neighbor regularization and line correction; NIfTI sidecars keep the animal's name and ID.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/mapapp-v0.3.6",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.3.5/MAPapp-0.3.5-macOS-arm64.dmg",
-    "sha256": "a4dd227714b7c07a405c33e3bfececb80a17cbc7e5d69c65ddafd0e2ef1da897",
-    "size": 175337472
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.3.6/MAPapp-0.3.6-macOS-arm64.dmg",
+    "sha256": "961b63409a1eeba2b4cc60c2a10c672f922a30e2d6cceeb1df0a36aed6d00141",
+    "size": 175444480
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.3.5/MAPapp-0.3.5-setup.exe",
-    "sha256": "0f58072555e1044e079774eb693e10c91f0b798f5f804c383d9db2cf9fa4c59a",
-    "size": 129168998
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.3.6/MAPapp-0.3.6-setup.exe",
+    "sha256": "f2a108c1535a1e1990fb2c8c5119dc3da35b27d2028d78e90743127d91c7e0c7",
+    "size": 129258305
    }
   }
  }
