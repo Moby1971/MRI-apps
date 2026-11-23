@@ -1,20 +1,20 @@
 {
  "format": 1,
- "published": "2026-11-23T09:31:02Z",
+ "published": "2026-11-23T09:34:10Z",
  "apps": {
   "Retrospective": {
-   "version": "0.6.2",
-   "note": "An option to weight k-lines by their averages in the compressed-sensing reconstruction; the Reco tab is split into Reco 1 and Reco 2.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.6.2",
+   "version": "0.6.3",
+   "note": "Colored messages: orange warnings, red errors, green results.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.6.3",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.2/Retrospective-0.6.2-macOS-arm64.dmg",
-    "sha256": "6d607130be754887d7ad636d45f6c4af3d2754988129117a2f6781cb632299d3",
-    "size": 451696128
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.3/Retrospective-0.6.3-macOS-arm64.dmg",
+    "sha256": "26ff9fc27630dccf71da606c36b5383391b1f025caf5606dd4dbd351bba46299",
+    "size": 451695104
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.2/Retrospective-0.6.2-setup.exe",
-    "sha256": "6faa1f7336290381cbc1f2c79d45ebe2eeceb647b729e35ce755f3a0c545755b",
-    "size": 375660175
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.3/Retrospective-0.6.3-setup.exe",
+    "sha256": "d3e59668cbce129eb380a06fe1f5ce1c658297704e5b28618bf927776353b7bd",
+    "size": 375653064
    }
   },
   "P2ROUD": {
