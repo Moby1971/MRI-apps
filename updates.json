@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-23T12:16:51Z",
+ "published": "2026-11-23T16:00:00Z",
  "apps": {
   "Retrospective": {
    "version": "0.6.4",
@@ -141,18 +141,18 @@
    }
   },
   "MAPapp": {
-   "version": "0.3.6",
-   "note": "New ORACLE fit options: full model, neighbor regularization and line correction; NIfTI sidecars keep the animal's name and ID.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/mapapp-v0.3.6",
+   "version": "0.3.7",
+   "note": "The ORACLE and CEST/MT fits move the progress bar; stopping an ORACLE fit is quick.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/mapapp-v0.3.7",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.3.6/MAPapp-0.3.6-macOS-arm64.dmg",
-    "sha256": "961b63409a1eeba2b4cc60c2a10c672f922a30e2d6cceeb1df0a36aed6d00141",
-    "size": 175444480
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.3.7/MAPapp-0.3.7-macOS-arm64.dmg",
+    "sha256": "4c9f99b719bd130988988ed070348428cd72720237289c958b12ccdf67486a5f",
+    "size": 175470080
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.3.6/MAPapp-0.3.6-setup.exe",
-    "sha256": "f2a108c1535a1e1990fb2c8c5119dc3da35b27d2028d78e90743127d91c7e0c7",
-    "size": 129258305
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.3.7/MAPapp-0.3.7-setup.exe",
+    "sha256": "f43294ba8035f3f8ef228cfabf3827d67a5a18eaebdcde5dfa1011931c85c88b",
+    "size": 129264426
    }
   }
  }
