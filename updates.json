@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-23T11:14:27Z",
+ "published": "2026-11-23T12:16:51Z",
  "apps": {
   "Retrospective": {
    "version": "0.6.4",
@@ -111,18 +111,18 @@
    }
   },
   "TRAJapp": {
-   "version": "0.3.0",
-   "note": "Colored messages: orange warnings, red errors, green results.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/trajapp-v0.3.0",
+   "version": "0.3.1",
+   "note": "Mac and Windows make the same pattern from the same parameters.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/trajapp-v0.3.1",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/trajapp-v0.3.0/TRAJapp-0.3.0-macOS-arm64.dmg",
-    "sha256": "aca952d76b196edd7fe5980f6992694c798a881d93682176989b7e95ebdbc18b",
-    "size": 76366336
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/trajapp-v0.3.1/TRAJapp-0.3.1-macOS-arm64.dmg",
+    "sha256": "071e05f3d7c98954db4e361af97e2139e921c13f561c626de9144f9b56bb462f",
+    "size": 76378624
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/trajapp-v0.3.0/TRAJapp-0.3.0-setup.exe",
-    "sha256": "184746f6e579bc52c3e6a3bd986f3163555dc52f088a0a79f63e65432d629efb",
-    "size": 69461939
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/trajapp-v0.3.1/TRAJapp-0.3.1-setup.exe",
+    "sha256": "f04c76b0a6c65100dcf204c12a729452e10989433eeb91dd22e6312543a383e2",
+    "size": 69468774
    }
   },
   "DATAapp": {
