@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-24T06:15:25Z",
+ "published": "2026-11-24T07:22:32Z",
  "apps": {
   "Retrospective": {
    "version": "0.6.4",
@@ -18,18 +18,18 @@
    }
   },
   "P2ROUD": {
-   "version": "0.6.1",
-   "note": "ZTE: RF feed-through is removed before the dead-time gap is filled; the dead time comes from the scan.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/p2roud-v0.6.1",
+   "version": "0.6.2",
+   "note": "ZTE gives the same images on every machine; the Ready message is green.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/p2roud-v0.6.2",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.6.1/P2ROUD-0.6.1-macOS-arm64.dmg",
-    "sha256": "e234c4d0fc436a48e6957fd99cc0afa04f00c19bbac02c17dbf06aaa5ceda157",
-    "size": 138548224
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.6.2/P2ROUD-0.6.2-macOS-arm64.dmg",
+    "sha256": "b91f8d28469ee1269fb58bdff48a34594a1e45352e3ba23ef7ca0865ed4d9e50",
+    "size": 138549248
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.6.1/P2ROUD-0.6.1-setup.exe",
-    "sha256": "456884def9b25bcd5330a4a85bd7d00f3e860c48a7dbf021e2571460dd02bcd6",
-    "size": 115284100
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.6.2/P2ROUD-0.6.2-setup.exe",
+    "sha256": "f0cfd9b6a841985eb869adac896dc46c238ce8e3d01ea96142601093aeb1573e",
+    "size": 115284254
    }
   },
   "T1mapp": {
