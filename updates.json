@@ -1,20 +1,20 @@
 {
  "format": 1,
- "published": "2026-11-24T09:53:40Z",
+ "published": "2026-11-24T09:55:41Z",
  "apps": {
   "Retrospective": {
-   "version": "0.6.4",
-   "note": "The command line uses the GPU, as the window does.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.6.4",
+   "version": "0.6.5",
+   "note": "ZTE: feed-through removed and dead time from the scan; same images on every machine; green Ready.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.6.5",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.4/Retrospective-0.6.4-macOS-arm64.dmg",
-    "sha256": "6ab85eef063e3c900c4648ff3ff49dbc63471d3baacd81c68dcb5b76f607ba3b",
-    "size": 451712512
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.5/Retrospective-0.6.5-macOS-arm64.dmg",
+    "sha256": "9441f5147ef33defe06bd837adade3cf5d80fd90bbbfcd3d7868c5dbc5ff8626",
+    "size": 451736064
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.4/Retrospective-0.6.4-setup.exe",
-    "sha256": "7d7607e1933a59aab631399546bd691919e2532fcb4741d0047ba832542f1ee1",
-    "size": 375648025
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.5/Retrospective-0.6.5-setup.exe",
+    "sha256": "6abe8709140620a02896f43074dded8109cf6df41b9b4f9f414231cfddf2775e",
+    "size": 375680355
    }
   },
   "P2ROUD": {
