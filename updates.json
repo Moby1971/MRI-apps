@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-24T09:58:27Z",
+ "published": "2026-11-24T10:00:18Z",
  "apps": {
   "Retrospective": {
    "version": "0.6.5",
@@ -126,18 +126,18 @@
    }
   },
   "DATAapp": {
-   "version": "0.3.7",
-   "note": "Colored messages: orange warnings, red errors, green results.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.3.7",
+   "version": "0.3.8",
+   "note": "The Ready message is green.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/dataapp-v0.3.8",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.3.7/DATAapp-0.3.7-macOS-arm64.dmg",
-    "sha256": "ee7620342fd3190d646d1e216cb5f35487be8ef2ffe29da828ade98eacdb0fee",
-    "size": 86394880
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.3.8/DATAapp-0.3.8-macOS-arm64.dmg",
+    "sha256": "91e84ae114d2e233bed4019075ab0733c1782395c81196f05306d37fc9844434",
+    "size": 86377984
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.3.7/DATAapp-0.3.7-setup.exe",
-    "sha256": "190e3c848b7db4244b015cc15984c0799b7d4f9feb3982f2b9248a4f9dabec55",
-    "size": 79736883
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/dataapp-v0.3.8/DATAapp-0.3.8-setup.exe",
+    "sha256": "9e615afed2a728a95d9b5e587cda31dd65f4ac296e7745523a120778c27f623a",
+    "size": 79723018
    }
   },
   "MAPapp": {
