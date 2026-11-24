@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-24T07:22:32Z",
+ "published": "2026-11-24T09:53:40Z",
  "apps": {
   "Retrospective": {
    "version": "0.6.4",
@@ -141,18 +141,18 @@
    }
   },
   "MAPapp": {
-   "version": "0.3.8",
-   "note": "Maps are drawn over the anatomical image: always for ORACLE, and when fitting in a region.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/mapapp-v0.3.8",
+   "version": "0.3.9",
+   "note": "The Ready message is green.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/mapapp-v0.3.9",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.3.8/MAPapp-0.3.8-macOS-arm64.dmg",
-    "sha256": "c86f037132f75a672e67278433d94cf4c6e27a827e81d93407c063a1a4bcc527",
-    "size": 175585792
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.3.9/MAPapp-0.3.9-macOS-arm64.dmg",
+    "sha256": "201f534f9c01c0229bc234b95a7ddb47d44a2a2b583e794bea54d07666ae6dda",
+    "size": 175590400
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.3.8/MAPapp-0.3.8-setup.exe",
-    "sha256": "612157b9c9e8503a871abaed0d038a064766d8d04abe29caae6299d45072fce0",
-    "size": 129350455
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.3.9/MAPapp-0.3.9-setup.exe",
+    "sha256": "6868a3de40c8cb603127897638ac7c1872960d72eb4e141ec4fed03536bc4145",
+    "size": 129347065
    }
   }
  }
