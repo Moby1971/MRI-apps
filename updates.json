@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-24T09:56:29Z",
+ "published": "2026-11-24T09:58:27Z",
  "apps": {
   "Retrospective": {
    "version": "0.6.5",
@@ -96,18 +96,18 @@
    }
   },
   "SHIMapp": {
-   "version": "0.6.2",
-   "note": "The maps show the field only within the chosen region, over the anatomical image.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/shimapp-v0.6.2",
+   "version": "0.6.3",
+   "note": "The Ready message is green.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/shimapp-v0.6.3",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.6.2/SHIMapp-0.6.2-macOS-arm64.dmg",
-    "sha256": "e7abefb916e6625923dc0e7e5ef958cab59e5551b21064cd49f3c016b1791a3a",
-    "size": 132028416
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.6.3/SHIMapp-0.6.3-macOS-arm64.dmg",
+    "sha256": "fa21d4dfa47ba811d2effcdea9a509e532cd896a38d7d433ca2ce68ca5f1ffe0",
+    "size": 132044288
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.6.2/SHIMapp-0.6.2-setup.exe",
-    "sha256": "0eb38590727987c712c2a8b73f911dcbf423eacb7652424a5d6e03664ff29d6f",
-    "size": 108076222
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.6.3/SHIMapp-0.6.3-setup.exe",
+    "sha256": "b5bf97397aaf959f306880c1e1e637789f31006726e5602e8827bfa09c7432f7",
+    "size": 108076352
    }
   },
   "TRAJapp": {
