@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-25T11:24:41Z",
+ "published": "2026-11-25T13:39:08Z",
  "apps": {
   "Retrospective": {
    "version": "0.6.6",
@@ -18,18 +18,18 @@
    }
   },
   "P2ROUD": {
-   "version": "0.6.4",
-   "note": "3D UTE gradient calibration; faster density weights.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/p2roud-v0.6.4",
+   "version": "0.6.5",
+   "note": "Tabs for EPI and FSE scans.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/p2roud-v0.6.5",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.6.4/P2ROUD-0.6.4-macOS-arm64.dmg",
-    "sha256": "ef4d642241bf8946ad652184b737f3171682db906903e6a295c3363bfeac887b",
-    "size": 138974208
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.6.5/P2ROUD-0.6.5-macOS-arm64.dmg",
+    "sha256": "240972e9aee75cc211850d80b26c6dabb522e59518adb233531e106ea39ee02a",
+    "size": 139053568
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.6.4/P2ROUD-0.6.4-setup.exe",
-    "sha256": "3117853b4ef2d7668387d0a93587f115931680f4024da0ebddbf5f55b67d9ee0",
-    "size": 115517498
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.6.5/P2ROUD-0.6.5-setup.exe",
+    "sha256": "20ab02c681d34f2cbb8ceaa55aec7ee6a6855c8c2198c3b4e315ffd185c65047",
+    "size": 115593690
    }
   },
   "T1mapp": {
