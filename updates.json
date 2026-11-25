@@ -1,20 +1,20 @@
 {
  "format": 1,
- "published": "2026-11-25T11:22:40Z",
+ "published": "2026-11-25T11:24:41Z",
  "apps": {
   "Retrospective": {
-   "version": "0.6.5",
-   "note": "ZTE: feed-through removed and dead time from the scan; same images on every machine; green Ready.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.6.5",
+   "version": "0.6.6",
+   "note": "3D UTE gradient calibration from P2ROUD; faster density weights.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.6.6",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.5/Retrospective-0.6.5-macOS-arm64.dmg",
-    "sha256": "9441f5147ef33defe06bd837adade3cf5d80fd90bbbfcd3d7868c5dbc5ff8626",
-    "size": 451736064
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.6/Retrospective-0.6.6-macOS-arm64.dmg",
+    "sha256": "65cbc4e8473b8fab3afe2921f40abf66c1d166e677ee0d01fce9be1eb32f4606",
+    "size": 451914240
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.5/Retrospective-0.6.5-setup.exe",
-    "sha256": "6abe8709140620a02896f43074dded8109cf6df41b9b4f9f414231cfddf2775e",
-    "size": 375680355
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.6/Retrospective-0.6.6-setup.exe",
+    "sha256": "b7e13cffae8e0b9c18551a1cbc88bb0c2d78ed97774f1e3d441c425a606d9f55",
+    "size": 375741547
    }
   },
   "P2ROUD": {
