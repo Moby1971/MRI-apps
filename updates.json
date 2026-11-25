@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-25T11:21:22Z",
+ "published": "2026-11-25T11:22:40Z",
  "apps": {
   "Retrospective": {
    "version": "0.6.5",
@@ -18,18 +18,18 @@
    }
   },
   "P2ROUD": {
-   "version": "0.6.3",
-   "note": "ZTE with T2 preparation: choose the spokes after each prep, TE from the prep; tidier Radial tab; smoother progress bar.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/p2roud-v0.6.3",
+   "version": "0.6.4",
+   "note": "3D UTE gradient calibration; faster density weights.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/p2roud-v0.6.4",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.6.3/P2ROUD-0.6.3-macOS-arm64.dmg",
-    "sha256": "acbc43e0be20c4263289893ea9ddb3e92717d6f59cb65fe337d30c7be8f94e43",
-    "size": 138590208
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.6.4/P2ROUD-0.6.4-macOS-arm64.dmg",
+    "sha256": "ef4d642241bf8946ad652184b737f3171682db906903e6a295c3363bfeac887b",
+    "size": 138974208
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.6.3/P2ROUD-0.6.3-setup.exe",
-    "sha256": "1d5b768296c8819e479e1853afcc5fe34600bbdc4aa9a2acd415e204f8cb5925",
-    "size": 115315541
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.6.4/P2ROUD-0.6.4-setup.exe",
+    "sha256": "3117853b4ef2d7668387d0a93587f115931680f4024da0ebddbf5f55b67d9ee0",
+    "size": 115517498
    }
   },
   "T1mapp": {
