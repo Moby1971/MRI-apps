@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-24T16:40:00Z",
+ "published": "2026-11-25T11:21:22Z",
  "apps": {
   "Retrospective": {
    "version": "0.6.5",
@@ -111,18 +111,18 @@
    }
   },
   "TRAJapp": {
-   "version": "0.3.2",
-   "note": "The Ready message is green.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/trajapp-v0.3.2",
+   "version": "0.3.3",
+   "note": "Spoke tables for ZTE and UTE in 3D.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/trajapp-v0.3.3",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/trajapp-v0.3.2/TRAJapp-0.3.2-macOS-arm64.dmg",
-    "sha256": "893947b41930195cb34c2baeddbd663b65953e50b0aa7573652b39d8771eaea9",
-    "size": 76384256
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/trajapp-v0.3.3/TRAJapp-0.3.3-macOS-arm64.dmg",
+    "sha256": "1e03d359e8fe17a8eab5978a434e351c621893682f16ea33239e99a0532fee9c",
+    "size": 77041664
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/trajapp-v0.3.2/TRAJapp-0.3.2-setup.exe",
-    "sha256": "1df8b2db0cdfd2fd78c6d489bdbe93c4d37e78a8050d66081a38f7a73baabb9b",
-    "size": 69467585
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/trajapp-v0.3.3/TRAJapp-0.3.3-setup.exe",
+    "sha256": "6f5cb81499e4dc9bfffe85877c826e9456f8fa9ef53df79232baf16a1d56c065",
+    "size": 69912542
    }
   },
   "DATAapp": {
