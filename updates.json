@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-27T13:34:15Z",
+ "published": "2026-11-27T13:35:18Z",
  "apps": {
   "Retrospective": {
    "version": "0.6.9",
@@ -18,18 +18,18 @@
    }
   },
   "P2ROUD": {
-   "version": "0.6.8",
-   "note": "NIfTI and BIDS exports in RAS orientation.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/p2roud-v0.6.8",
+   "version": "0.6.9",
+   "note": "Reads aumc_ute3d_003 UTE scans.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/p2roud-v0.6.9",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.6.8/P2ROUD-0.6.8-macOS-arm64.dmg",
-    "sha256": "795e17a03e078849dc6dc10f7eba0806d6f28105d0115920d8cc36905ea9de33",
-    "size": 139780608
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.6.9/P2ROUD-0.6.9-macOS-arm64.dmg",
+    "sha256": "17bb4b7d3a798d24aea803d2eb891f326f814916aa62d6c2f0c0bb128c88e82d",
+    "size": 139793408
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.6.8/P2ROUD-0.6.8-setup.exe",
-    "sha256": "70143742481b31ebc6200de7db45907c804bd232f02fe92fb2ad554af0d1acea",
-    "size": 115941549
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.6.9/P2ROUD-0.6.9-setup.exe",
+    "sha256": "06f84ba232ea04eb152026948de1ec4db096b17c1057b68cf48bd7d10a4c1158",
+    "size": 115951091
    }
   },
   "T1mapp": {
