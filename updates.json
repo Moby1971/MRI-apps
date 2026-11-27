@@ -1,20 +1,20 @@
 {
  "format": 1,
- "published": "2026-11-27T06:19:01Z",
+ "published": "2026-11-27T06:21:21Z",
  "apps": {
   "Retrospective": {
-   "version": "0.6.7",
-   "note": "New radial FLASH and 3D UTE sequences; self-gating on the spoke center.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.6.7",
+   "version": "0.6.8",
+   "note": "Library choice in the UTE and radial FLASH calibration lists.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.6.8",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.7/Retrospective-0.6.7-macOS-arm64.dmg",
-    "sha256": "67a03069f39bbf7cbab7610deb4c46036bd8af2b9fcc351a95b68a13d28b33a2",
-    "size": 452502016
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.8/Retrospective-0.6.8-macOS-arm64.dmg",
+    "sha256": "5fa61c28ce4bf45a50e5e32c0f7b69093f32c78fbfbf8d349e3749d35b52f6f4",
+    "size": 452507648
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.7/Retrospective-0.6.7-setup.exe",
-    "sha256": "80fe7d206988c5c2b7dded240b8337587427baa484ec0dab64c8e7c35979cffe",
-    "size": 375917051
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.8/Retrospective-0.6.8-setup.exe",
+    "sha256": "56b4efa98da6f6e1d8e5b2a3f3d61d16ef9090c24f1f7dafd8081e19d597da0c",
+    "size": 376017543
    }
   },
   "P2ROUD": {
