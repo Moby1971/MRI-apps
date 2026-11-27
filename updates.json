@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-27T11:30:38Z",
+ "published": "2026-11-27T11:31:50Z",
  "apps": {
   "Retrospective": {
    "version": "0.6.8",
@@ -141,18 +141,18 @@
    }
   },
   "MAPapp": {
-   "version": "0.3.9",
-   "note": "The Ready message is green.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/mapapp-v0.3.9",
+   "version": "0.4.0",
+   "note": "NIfTI and BIDS exports in RAS orientation.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/mapapp-v0.4.0",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.3.9/MAPapp-0.3.9-macOS-arm64.dmg",
-    "sha256": "201f534f9c01c0229bc234b95a7ddb47d44a2a2b583e794bea54d07666ae6dda",
-    "size": 175590400
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.4.0/MAPapp-0.4.0-macOS-arm64.dmg",
+    "sha256": "55bbeb6343dc0bf4d34769bcf4d9b3aba948ceca4e4f881ce7282603786dc974",
+    "size": 175642624
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.3.9/MAPapp-0.3.9-setup.exe",
-    "sha256": "6868a3de40c8cb603127897638ac7c1872960d72eb4e141ec4fed03536bc4145",
-    "size": 129347065
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.4.0/MAPapp-0.4.0-setup.exe",
+    "sha256": "8db6873b71960a84ec89831e80bb9d6d4e37693b9a64b125aeba31d9b209ef51",
+    "size": 129369449
    }
   }
  }
