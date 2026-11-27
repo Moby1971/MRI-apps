@@ -1,20 +1,20 @@
 {
  "format": 1,
- "published": "2026-11-27T11:31:50Z",
+ "published": "2026-11-27T11:33:55Z",
  "apps": {
   "Retrospective": {
-   "version": "0.6.8",
-   "note": "Library choice in the UTE and radial FLASH calibration lists.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.6.8",
+   "version": "0.6.9",
+   "note": "NIfTI and BIDS exports in RAS orientation.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/retrospective-v0.6.9",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.8/Retrospective-0.6.8-macOS-arm64.dmg",
-    "sha256": "5fa61c28ce4bf45a50e5e32c0f7b69093f32c78fbfbf8d349e3749d35b52f6f4",
-    "size": 452507648
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.9/Retrospective-0.6.9-macOS-arm64.dmg",
+    "sha256": "736af8271a3e705c75a1b84aa6d375ae17c3b55a30bd1cc5371954cf929df20e",
+    "size": 452549120
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.8/Retrospective-0.6.8-setup.exe",
-    "sha256": "56b4efa98da6f6e1d8e5b2a3f3d61d16ef9090c24f1f7dafd8081e19d597da0c",
-    "size": 376017543
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/retrospective-v0.6.9/Retrospective-0.6.9-setup.exe",
+    "sha256": "9eb80fd236465b412852258a6c83f7c15925d8265a9236593745ba143dd5ede5",
+    "size": 376064394
    }
   },
   "P2ROUD": {
