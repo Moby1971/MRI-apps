@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-25T13:39:08Z",
+ "published": "2026-11-27T04:56:54Z",
  "apps": {
   "Retrospective": {
    "version": "0.6.6",
@@ -18,18 +18,18 @@
    }
   },
   "P2ROUD": {
-   "version": "0.6.5",
-   "note": "Tabs for EPI and FSE scans.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/p2roud-v0.6.5",
+   "version": "0.6.6",
+   "note": "Radial FLASH gradient calibration; in-scan calibration for new sequences.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/p2roud-v0.6.6",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.6.5/P2ROUD-0.6.5-macOS-arm64.dmg",
-    "sha256": "240972e9aee75cc211850d80b26c6dabb522e59518adb233531e106ea39ee02a",
-    "size": 139053568
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.6.6/P2ROUD-0.6.6-macOS-arm64.dmg",
+    "sha256": "e1d32bc42856ac17fff084788b9729b3472d7c077eeb71e3bee31383cdd91472",
+    "size": 139772928
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.6.5/P2ROUD-0.6.5-setup.exe",
-    "sha256": "20ab02c681d34f2cbb8ceaa55aec7ee6a6855c8c2198c3b4e315ffd185c65047",
-    "size": 115593690
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/p2roud-v0.6.6/P2ROUD-0.6.6-setup.exe",
+    "sha256": "94b4c3588a67c2954ebfcda84a747490a6e2789bc1efd4ed9f415551e4297f51",
+    "size": 115922693
    }
   },
   "T1mapp": {
