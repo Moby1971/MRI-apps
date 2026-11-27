@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-27T13:37:19Z",
+ "published": "2026-11-27T18:39:33Z",
  "apps": {
   "Retrospective": {
    "version": "0.7.0",
@@ -141,18 +141,18 @@
    }
   },
   "MAPapp": {
-   "version": "0.4.0",
-   "note": "NIfTI and BIDS exports in RAS orientation.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/mapapp-v0.4.0",
+   "version": "0.4.1",
+   "note": "BIDS maps sit beside the exam's BIDS data, in the animal's frame.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/mapapp-v0.4.1",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.4.0/MAPapp-0.4.0-macOS-arm64.dmg",
-    "sha256": "55bbeb6343dc0bf4d34769bcf4d9b3aba948ceca4e4f881ce7282603786dc974",
-    "size": 175642624
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.4.1/MAPapp-0.4.1-macOS-arm64.dmg",
+    "sha256": "f34bec9e74941daf325c768efb0937f61bfee10ed0249ebd8303c8490bb5bb1a",
+    "size": 175646208
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.4.0/MAPapp-0.4.0-setup.exe",
-    "sha256": "8db6873b71960a84ec89831e80bb9d6d4e37693b9a64b125aeba31d9b209ef51",
-    "size": 129369449
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/mapapp-v0.4.1/MAPapp-0.4.1-setup.exe",
+    "sha256": "b3f52d5b6a9dbc911676efda5fc790884ffa370c14d0278366d6400b6f47cf58",
+    "size": 129366138
    }
   }
  }
