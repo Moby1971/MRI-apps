@@ -59,11 +59,11 @@ sequence, its parameter template, installation instructions and a user guide.
 
 | Sequence | What it does | Apps |
 |---|---|---|
-| **aumc_flash** (radial FLASH) | RF-spoiled FLASH with golden-angle radial (2D) and stack of stars (3D), short-TE center-out spokes and slice-interleaved multislice for navigator cine; measures its own readout gradient at the start of each radial scan | P2ROUD, Retrospective |
-| **aumc_ute** (3D UTE) | RF-spoiled 3D ultrashort echo time imaging, with its own readout gradient calibration in the scan | P2ROUD, Retrospective, TRAJapp |
-| **aumc_zte** (ZTE) | Zero echo time 3D radial imaging, flip angle from the session's RF calibration, optional T₂ preparation | P2ROUD, TRAJapp |
-| **aumc_epi3d** (diffusion EPI) | Diffusion-weighted EPI with all volumes read at the spin echo; existing EPI protocols apply unchanged | P2ROUD, MAPapp |
-| **aumc_afi** (B₁ map) | B₁ (flip-angle) map by actual flip-angle imaging (AFI), for MAPapp's flip-angle correction | MAPapp |
+| **aumc_flash_006** (radial FLASH) | RF-spoiled FLASH with golden-angle radial (2D) and stack of stars (3D), short-TE center-out spokes and slice-interleaved multislice for navigator cine; measures its own readout gradient at the start of each radial scan | P2ROUD, Retrospective |
+| **aumc_ute3d_003** (3D UTE) | RF-spoiled 3D ultrashort echo time imaging, with its own readout gradient calibration in the scan | P2ROUD, Retrospective, TRAJapp |
+| **aumc_zte_004** (ZTE) | Zero echo time 3D radial imaging, flip angle from the session's RF calibration, optional T₂ preparation | P2ROUD, TRAJapp |
+| **aumc_epi3d_001** (diffusion EPI) | Diffusion-weighted EPI with all volumes read at the spin echo; existing EPI protocols apply unchanged | P2ROUD, MAPapp |
+| **aumc_afi_002** (B₁ map) | B₁ (flip-angle) map by actual flip-angle imaging (AFI), for MAPapp's flip-angle correction | MAPapp |
 
 ## Contact
 
