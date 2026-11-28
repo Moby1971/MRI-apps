@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published": "2026-11-28T07:53:21Z",
+ "published": "2026-11-28T08:15:58Z",
  "apps": {
   "Retrospective": {
    "version": "0.7.0",
@@ -96,18 +96,18 @@
    }
   },
   "SHIMapp": {
-   "version": "0.6.4",
-   "note": "Field maps saved in the exam's Nifti folder.",
-   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/shimapp-v0.6.4",
+   "version": "0.6.5",
+   "note": "Saved field maps show in DATAapp.",
+   "release": "https://github.com/Moby1971/MRI-apps/releases/tag/shimapp-v0.6.5",
    "macos": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.6.4/SHIMapp-0.6.4-macOS-arm64.dmg",
-    "sha256": "4b65463bf8b18a7a1ee810360022127f2819517c470dabd0334273e3fb1f7b1b",
-    "size": 132108288
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.6.5/SHIMapp-0.6.5-macOS-arm64.dmg",
+    "sha256": "4255f33273889a12d70c92519d0e7d7b4e59698753a22e48c1c3f6dd51cbc106",
+    "size": 132105728
    },
    "windows": {
-    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.6.4/SHIMapp-0.6.4-setup.exe",
-    "sha256": "8f648ab2f66f8bf1169e1cde424e49c52373a7c16dc3489f651b8dda18249a98",
-    "size": 108112259
+    "url": "https://github.com/Moby1971/MRI-apps/releases/download/shimapp-v0.6.5/SHIMapp-0.6.5-setup.exe",
+    "sha256": "286a0fb83c3ed0f5e14580e3c5261563ef9d883aefe5b6af85ae230b779f1b33",
+    "size": 108114741
    }
   },
   "TRAJapp": {
